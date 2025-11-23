@@ -1,0 +1,94 @@
+{
+  "parent_url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies",
+  "filtered_date": "2025-11-15T23:52:05.514592",
+  "filter_stage": "pre_scraping_filter",
+  "filter_criteria": {
+    "keep_categories": [
+      "Life Sciences",
+      "Medical Devices"
+    ],
+    "min_confidence": 0.5,
+    "llm_mode": "smart"
+  },
+  "statistics": {
+    "total": 22,
+    "life_sciences": 10,
+    "medical_devices": 2,
+    "other": 10,
+    "kept": 5,
+    "discarded": 10
+  },
+  "total_count": 5,
+  "urls": [
+    {
+      "id": "researchers-mit-community",
+      "url": "https://tlo.mit.edu/researchers-mit-community",
+      "title": "Researchers & MIT Community",
+      "title_original": "Researchers & MIT Community",
+      "translated": false,
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.85,
+        "reasoning": "The title suggests a focus on research and community engagement, which aligns closely with the Life Sciences sector, encompassing biotechnology, therapeutics, and research tools.",
+        "classified_date": "2025-11-15T23:51:35.593264",
+        "method": "smart"
+      }
+    },
+    {
+      "id": "spiral-microfluidics-sorter-circulating-tumor-cells",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/spiral-microfluidics-sorter-circulating-tumor-cells",
+      "title": "Spiral Microfluidics Sorter for Circulating Tumor Cells (CTCs)Isolation",
+      "title_original": "Spiral Microfluidics Sorter for Circulating Tumor Cells (CTCs)Isolation",
+      "translated": false,
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.9,
+        "reasoning": "The Spiral Microfluidics Sorter is a technology designed for isolating circulating tumor cells, which falls under diagnostics and life-science research tools, both of which are key components of the Life Sciences sector.",
+        "classified_date": "2025-11-15T23:51:39.382001",
+        "method": "smart"
+      }
+    },
+    {
+      "id": "preferential-crystallization-fullraavs-hanging-drop",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/preferential-crystallization-fullraavs-hanging-drop",
+      "title": "Preferential Crystallization of fullrAAVs in a Hanging Drop Crystallizer as an Alternative Method for Downstream Purification of rAAV-based GeneTherapies",
+      "title_original": "Preferential Crystallization of fullrAAVs in a Hanging Drop Crystallizer as an Alternative Method for Downstream Purification of rAAV-based GeneTherapies",
+      "translated": false,
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.95,
+        "reasoning": "The title focuses on the purification of rAAV-based gene therapies, which falls under biotechnology and gene therapy, key components of the Life Sciences sector.",
+        "classified_date": "2025-11-15T23:51:40.771325",
+        "method": "smart"
+      }
+    },
+    {
+      "id": "surfaces-controlled-cell-adhesion",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/surfaces-controlled-cell-adhesion",
+      "title": "Surfaces for Controlled CellAdhesion",
+      "title_original": "Surfaces for Controlled CellAdhesion",
+      "translated": false,
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.9,
+        "reasoning": "The title 'Surfaces for Controlled Cell Adhesion' suggests a focus on biotechnology and materials that influence cellular behavior, which aligns with life sciences, particularly in areas like cell therapy and tissue engineering.",
+        "classified_date": "2025-11-15T23:51:43.598887",
+        "method": "smart"
+      }
+    },
+    {
+      "id": "approach-enriching-production-dna-cargo-loaded-aav5-0",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/approach-enriching-production-dna-cargo-loaded-aav5-0",
+      "title": "An Approach for Enriching the Production of DNA Cargo Loaded AAV5 Capsids inCells",
+      "title_original": "An Approach for Enriching the Production of DNA Cargo Loaded AAV5 Capsids inCells",
+      "translated": false,
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.95,
+        "reasoning": "The title focuses on the production of DNA cargo loaded AAV5 capsids, which relates to gene therapy and biotechnology, both of which are key components of the Life Sciences sector.",
+        "classified_date": "2025-11-15T23:51:46.137657",
+        "method": "smart"
+      }
+    }
+  ]
+}

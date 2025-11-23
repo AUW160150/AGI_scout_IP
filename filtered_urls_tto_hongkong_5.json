@@ -1,0 +1,94 @@
+{
+  "parent_url": "https://www.tto.hku.hk/technology",
+  "filtered_date": "2025-11-10T00:44:03.163798",
+  "filter_stage": "pre_scraping_filter",
+  "filter_criteria": {
+    "keep_categories": [
+      "Life Sciences",
+      "Medical Devices"
+    ],
+    "min_confidence": 0.5,
+    "llm_mode": "smart"
+  },
+  "statistics": {
+    "total": 5,
+    "life_sciences": 4,
+    "medical_devices": 1,
+    "other": 0,
+    "kept": 5,
+    "discarded": 0
+  },
+  "total_count": 5,
+  "urls": [
+    {
+      "id": "technologies-and-products",
+      "url": "https://www.tto.hku.hk/technologies-and-products",
+      "title": "Technologies and Products",
+      "title_original": "Technologies and Products",
+      "translated": false,
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.9,
+        "reasoning": "The title 'Technologies and Products' suggests a broad range of innovations, many of which likely fall under the categories of pharmaceuticals, biotechnology, and diagnostics, all of which are key components of the Life Sciences sector.",
+        "classified_date": "2025-11-10T00:41:56.430804",
+        "method": "smart"
+      }
+    },
+    {
+      "id": "rsv-vaccine",
+      "url": "https://www.tto.hku.hk/technology/rsv-vaccine",
+      "title": "Rsv Vaccine",
+      "title_original": "Rsv Vaccine",
+      "translated": false,
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.95,
+        "reasoning": "The Rsv Vaccine falls under the category of vaccines, which is a key component of the Life Sciences sector, specifically within the biotechnology and therapeutics subcategories.",
+        "classified_date": "2025-11-10T00:41:59.534454",
+        "method": "smart"
+      }
+    },
+    {
+      "id": "in-vitro-generation-of-an-osteochondral-interface",
+      "url": "https://www.tto.hku.hk/technology/in-vitro-generation-of-an-osteochondral-interface",
+      "title": "In Vitro Generation Of An Osteochondral Interface",
+      "title_original": "In Vitro Generation Of An Osteochondral Interface",
+      "translated": false,
+      "classification": {
+        "mainSector": "Medical Devices",
+        "confidence": 0.85,
+        "reasoning": "The title suggests a focus on the development of a specific interface for osteochondral applications, which aligns with medical devices related to implants or surgical instruments used in orthopedic procedures.",
+        "classified_date": "2025-11-10T00:42:02.232988",
+        "method": "smart"
+      }
+    },
+    {
+      "id": "msc-microspheres-for-regenerative-medicine",
+      "url": "https://www.tto.hku.hk/technology/msc-microspheres-for-regenerative-medicine",
+      "title": "Msc Microspheres For Regenerative Medicine",
+      "title_original": "Msc Microspheres For Regenerative Medicine",
+      "translated": false,
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.9,
+        "reasoning": "Msc microspheres are typically used in regenerative medicine applications, which fall under the biotechnology and therapeutics categories within the Life Sciences sector.",
+        "classified_date": "2025-11-10T00:42:04.071427",
+        "method": "smart"
+      }
+    },
+    {
+      "id": "synthetic-bacteria-vaccine-against-antibiotics-resistant-bacteria",
+      "url": "https://www.tto.hku.hk/technology/synthetic-bacteria-vaccine-against-antibiotics-resistant-bacteria",
+      "title": "Synthetic Bacteria Vaccine Against Antibiotics Resistant Bacteria",
+      "title_original": "Synthetic Bacteria Vaccine Against Antibiotics Resistant Bacteria",
+      "translated": false,
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.95,
+        "reasoning": "The title refers to a synthetic bacteria vaccine, which falls under the category of vaccines and therapeutics aimed at addressing antibiotic resistance, a key area in biotechnology and life sciences.",
+        "classified_date": "2025-11-10T00:42:08.285832",
+        "method": "smart"
+      }
+    }
+  ]
+}

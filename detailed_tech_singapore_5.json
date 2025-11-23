@@ -1,0 +1,306 @@
+{
+  "scraped_date": "2025-11-16T00:53:28.555959",
+  "total_count": 5,
+  "traditional_count": 0,
+  "search_model_count": 5,
+  "total_cost": 0.15,
+  "model": "gpt-4o-search-preview",
+  "ips": [
+    {
+      "_id": {
+        "$oid": "wireless-sensing-medical-sutures-post-surgery-monitoring"
+      },
+      "source_id": "unknown",
+      "url": "https://tech.nus.edu.sg/wireless-sensing-medical-sutures-post-surgery-monitoring",
+      "details": {
+        "title": "Wireless Sensing Medical Sutures for Post-Surgery Monitoring",
+        "post_date": null,
+        "summary": "The Wireless Sensing Medical Sutures (WISE) technology integrates a miniaturized, battery-free transponder into surgical sutures, enabling real-time, wireless monitoring of post-surgical complications such as bleeding and infections.",
+        "abstract": "The WISE device utilizes harmonic backscattering technology to communicate information from surgical sites to external devices. By incorporating a highly miniaturized transponder into medical-grade sutures, the technology maintains the sutures' mechanical properties and biocompatibility while providing real-time monitoring capabilities. This innovation supports healthcare professionals in enhancing patient care and optimizing surgical outcomes.",
+        "benefit": "Key benefits include real-time, wireless monitoring of surgical sites, early detection of post-surgical complications, and maintenance of the mechanical properties and biocompatibility of standard medical-grade sutures.",
+        "market_application": "Potential applications encompass various surgical procedures where monitoring for complications like bleeding and infections is critical, thereby improving patient outcomes and reducing healthcare costs.",
+        "technology_description": "The WISE device comprises a medical-grade silk suture coated with a conductive polymer, a battery-free electronic sensor, and a wireless reader. The suture functions as a radio-frequency identification (RFID) tag, allowing an external reader to detect changes in the reflected signal, which may indicate complications at the wound site.",
+        "publications": {
+          "text": "Related publications include a study titled 'Wirelessly operated bioelectronic sutures for the monitoring of deep surgical wounds' published in Nature Biomedical Engineering.",
+          "urls": [
+            "https://www.nature.com/articles/s41551-021-00802-0"
+          ]
+        },
+        "image_urls": [],
+        "licensing_contacts": [
+          {
+            "name": "Ma Mun Thoh",
+            "phone": null,
+            "email": null
+          }
+        ],
+        "researchers": [
+          "John S Y Ho",
+          "Viveka Kalidasan",
+          "Xin Yang",
+          "Ze Xiong",
+          "Renee R. Li",
+          "Haicheng Yao",
+          "Hareesh Godaba",
+          "Sybil Obuobi",
+          "Priti Singh",
+          "Xin Guan",
+          "Xi Tian",
+          "Selman A. Kurt",
+          "Zhipeng Li",
+          "Devika Mukherjee",
+          "Ravisankar Rajarethinam",
+          "Choon Seng Chong",
+          "Jiong-Wei Wang",
+          "Pui Lai Rachel Ee",
+          "Weiqiang Loke",
+          "Benjamin C. K. Tee",
+          "Jianyong Ouyang",
+          "Christopher J. Charles"
+        ],
+        "organizations": [
+          {
+            "name": "National University of Singapore",
+            "logo_url": null
+          }
+        ],
+        "companies_interested": [],
+        "additional_data": {},
+        "extracted_urls": [
+          "https://tech.nus.edu.sg/wireless-sensing-medical-sutures-post-surgery-monitoring",
+          "https://news.nus.edu.sg/smart-sutures-to-monitor-deep-surgical-wounds/",
+          "https://ihealthtech.nus.edu.sg/publication/wirelessly-operated-bioelectronic-sutures-for-the-monitoring-of-deep-surgical-wounds/"
+        ]
+      },
+      "timestamp": "2025-11-16T00:52:55.019825",
+      "model": "gpt-4o-search-preview",
+      "scraping_method": "search_model",
+      "completeness_score": 1.0,
+      "web_citations": [
+        "https://tech.nus.edu.sg/wireless-sensing-medical-sutures-post-surgery-monitoring",
+        "https://news.nus.edu.sg/smart-sutures-to-monitor-deep-surgical-wounds/",
+        "https://ihealthtech.nus.edu.sg/publication/wirelessly-operated-bioelectronic-sutures-for-the-monitoring-of-deep-surgical-wounds/"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "rebuild-restore-reconstruct-improved-method-craniomaxillo-facial-surgery"
+      },
+      "source_id": "unknown",
+      "url": "http://tech.nus.edu.sg/rebuild-restore-reconstruct-improved-method-craniomaxillo-facial-surgery",
+      "details": {
+        "title": "Rebuild, Restore, Reconstruct – An Improved Method for Craniomaxillo Facial Surgery",
+        "post_date": null,
+        "summary": "NUS has developed a novel skull reconstruction algorithm that generates accurate 3D models of normal skulls from defective ones, enhancing surgical planning and forensic investigations.",
+        "abstract": "The technology involves a skull reconstruction algorithm called Flip-Avoiding Interpolating Surface, which creates a 3D model of a defective skull from CT scans. This model is then used to reconstruct a normal skull model. The algorithm minimizes errors and surface distortions through iterative, interpolating calculations that do not rely on the original defective-skull model.",
+        "benefit": "Increased accuracy and objectivity in skull reconstruction, ability to generate models from incomplete or deformed skulls, greater efficiency requiring fewer references, and effectiveness for bilaterally defective skulls.",
+        "market_application": "Applications include skull surgery planning, forensic and anthropological investigations requiring accurate skull reconstructions.",
+        "technology_description": "The method utilizes a CT scan to generate a 3D model of the defective skull. The Flip-Avoiding Interpolating Surface algorithm is applied to this model to create a new 3D model of the normal skull, producing minimal errors and little distortion.",
+        "publications": {
+          "text": "No specific publications or patents related to this technology were found.",
+          "urls": []
+        },
+        "image_urls": [],
+        "licensing_contacts": [
+          {
+            "name": "Ziying Yuan",
+            "phone": null,
+            "email": null
+          }
+        ],
+        "researchers": [
+          "Leow Wee Kheng",
+          "Lim Thiam Chye"
+        ],
+        "organizations": [
+          {
+            "name": "National University of Singapore",
+            "logo_url": null
+          }
+        ],
+        "companies_interested": [],
+        "additional_data": {},
+        "extracted_urls": [
+          "http://tech.nus.edu.sg/rebuild-restore-reconstruct-improved-method-craniomaxillo-facial-surgery"
+        ]
+      },
+      "timestamp": "2025-11-16T00:53:02.970051",
+      "model": "gpt-4o-search-preview",
+      "scraping_method": "search_model",
+      "completeness_score": 1.0,
+      "web_citations": [
+        "http://tech.nus.edu.sg/rebuild-restore-reconstruct-improved-method-craniomaxillo-facial-surgery"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "safe-and-approved-solution-eating-disorders-stapled-relaxin-3-b-chain-peptides-antagonists"
+      },
+      "source_id": "unknown",
+      "url": "http://tech.nus.edu.sg/safe-and-approved-solution-eating-disorders-stapled-relaxin-3-b-chain-peptides-antagonists",
+      "details": {
+        "title": "Safe and Approved Solution for Eating Disorders: Stapled Relaxin-3 B-Chain Peptides Antagonists",
+        "post_date": null,
+        "summary": "The technology involves the development of stapled relaxin-3 B-chain peptide antagonists aimed at providing a safe and approved solution for treating eating disorders.",
+        "abstract": "This innovation focuses on modifying the relaxin-3 B-chain peptides through a stapling technique to enhance their stability and efficacy as antagonists targeting the RXFP3 receptor, which is implicated in the regulation of appetite and feeding behaviors.",
+        "benefit": "The stapled peptides exhibit increased stability and potency, offering a promising therapeutic approach for managing eating disorders with potentially fewer side effects.",
+        "market_application": "Potential applications include the development of novel treatments for various eating disorders such as anorexia nervosa, bulimia nervosa, and binge-eating disorder.",
+        "technology_description": "By introducing chemical bridges within the relaxin-3 B-chain peptides, the stapling process stabilizes their helical structure, enhancing their ability to effectively antagonize the RXFP3 receptor involved in appetite regulation.",
+        "publications": {
+          "text": "Related publications include studies on the development of relaxin-3 agonists and antagonists using disulfide-stabilized scaffolds, and reviews on targeting the relaxin-3/RXFP3 system.",
+          "urls": [
+            "https://www.frontiersin.org/articles/10.3389/fchem.2020.00087/full",
+            "https://pubmed.ncbi.nlm.nih.gov/38573177/"
+          ]
+        },
+        "image_urls": [],
+        "licensing_contacts": [
+          {
+            "name": "Gladys Sim",
+            "phone": "65-677-23831",
+            "email": "gladyssim@nus.edu.sg"
+          }
+        ],
+        "researchers": [
+          "Dr. Tharindunee Jayakody"
+        ],
+        "organizations": [
+          {
+            "name": "National University of Singapore",
+            "logo_url": null
+          }
+        ],
+        "companies_interested": [],
+        "additional_data": {},
+        "extracted_urls": [
+          "http://tech.nus.edu.sg/safe-and-approved-solution-eating-disorders-stapled-relaxin-3-b-chain-peptides-antagonists",
+          "https://www.frontiersin.org/articles/10.3389/fchem.2020.00087/full",
+          "https://pubmed.ncbi.nlm.nih.gov/38573177/",
+          "https://www.eurekalert.org/news-releases/1034953"
+        ]
+      },
+      "timestamp": "2025-11-16T00:53:11.808966",
+      "model": "gpt-4o-search-preview",
+      "scraping_method": "search_model",
+      "completeness_score": 1.0,
+      "web_citations": [
+        "http://tech.nus.edu.sg/safe-and-approved-solution-eating-disorders-stapled-relaxin-3-b-chain-peptides-antagonists",
+        "https://www.frontiersin.org/articles/10.3389/fchem.2020.00087/full",
+        "https://pubmed.ncbi.nlm.nih.gov/38573177/",
+        "https://www.eurekalert.org/news-releases/1034953"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "inhaled-protein-therapeutic-treatment-chronic-obstructive-pulmonary-disease"
+      },
+      "source_id": "unknown",
+      "url": "http://tech.nus.edu.sg/inhaled-protein-therapeutic-treatment-chronic-obstructive-pulmonary-disease",
+      "details": {
+        "title": "A biologic drug for the treatment of chronic obstructive pulmonary disease",
+        "post_date": "2022-04-24",
+        "summary": "NUS scientists have discovered a novel anti-inflammatory action of a lung resident protein Isthmin 1 (ISM1) and demonstrated its potential as a biologic drug for the treatment of chronic obstructive pulmonary disease (COPD).",
+        "abstract": "The research team led by Associate Professor Ge Ruowen from the Department of Biological Sciences at NUS revealed that ISM1 is critical for restraining inflammation in a healthy lung by selectively eliminating pro-inflammatory alveolar macrophages. ISM1 achieves this by targeting the GRP78 signaling receptor present on the cell surface of these macrophages. In laboratory studies, delivering recombinant ISM1 protein directly into the airway reduced lung inflammation, suppressed emphysema development, and restored lung functions, supporting the development of ISM1 as a potential treatment for COPD.",
+        "benefit": "The novel treatment suppresses the root cause of COPD by directly targeting pro-inflammatory alveolar macrophages, offering a potential therapeutic option that addresses the underlying inflammation rather than just providing symptomatic relief.",
+        "market_application": "Potential applications include the development of biologic drugs for the treatment of COPD and possibly other inflammatory respiratory diseases such as allergic asthma, acute lung injury, and pulmonary fibrosis.",
+        "technology_description": "ISM1 is a lung resident protein that plays a critical role in maintaining lung homeostasis by selectively inducing apoptosis in pro-inflammatory alveolar macrophages through the GRP78 signaling receptor. This mechanism reduces lung inflammation and prevents emphysema development, making ISM1 a promising candidate for biologic drug development in treating COPD.",
+        "publications": {
+          "text": "The findings were published in the Proceedings of the National Academy of Sciences (PNAS) in January 2022.",
+          "urls": [
+            "https://www.pnas.org/doi/10.1073/pnas.2019161119"
+          ]
+        },
+        "image_urls": [
+          "https://www.science.nus.edu.sg/wp-content/uploads/2022/04/2022-04-24-ISM1-Protein.jpg"
+        ],
+        "licensing_contacts": [
+          {
+            "name": "NUS Industry Liaison Office",
+            "phone": "+65 6516 8080",
+            "email": "ilo@nus.edu.sg"
+          }
+        ],
+        "researchers": [
+          "Associate Professor Ge Ruowen",
+          "Professor Fred Wong"
+        ],
+        "organizations": [
+          {
+            "name": "National University of Singapore",
+            "logo_url": "https://www.nus.edu.sg/images/default-source/base/logo.png"
+          }
+        ],
+        "companies_interested": [],
+        "additional_data": {},
+        "extracted_urls": [
+          "https://www.science.nus.edu.sg/blog/2022/04/a-biological-drug-for-chronic-obstructive-pulmonary-disease/",
+          "https://news.nus.edu.sg/nus-scientists-discover-promising-biologic-drug-for-treating-chronic-lung-disease/",
+          "https://medicine.nus.edu.sg/medphc/news/nus-scientists-discover-promising-biologic-drug-for-treating-chronic-lung-disease-2/"
+        ]
+      },
+      "timestamp": "2025-11-16T00:53:21.037028",
+      "model": "gpt-4o-search-preview",
+      "scraping_method": "search_model",
+      "completeness_score": 1.0,
+      "web_citations": [
+        "https://www.science.nus.edu.sg/blog/2022/04/a-biological-drug-for-chronic-obstructive-pulmonary-disease/",
+        "https://news.nus.edu.sg/nus-scientists-discover-promising-biologic-drug-for-treating-chronic-lung-disease/",
+        "https://medicine.nus.edu.sg/medphc/news/nus-scientists-discover-promising-biologic-drug-for-treating-chronic-lung-disease-2/",
+        "https://www.pnas.org/doi/10.1073/pnas.2019161119"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "earlier-detection-lung-cancer-better-patient-outcome"
+      },
+      "source_id": "unknown",
+      "url": "http://tech.nus.edu.sg/earlier-detection-lung-cancer-better-patient-outcome",
+      "details": {
+        "title": "Biomarker panel for early detection of Non-small Cell Lung Cancer",
+        "post_date": null,
+        "summary": "A blood-based diagnostic panel utilizing novel protein biomarkers found in exosomes to accurately detect early-stage Non-Small Cell Lung Cancer (NSCLC) with high sensitivity and specificity.",
+        "abstract": "The invention relates to a biomarker panel which offers high sensitivity and can significantly reduce the false positive rates in lung cancer screening. The blood-based diagnostic panel can accurately predict the potential presence of NSCLC, even in the early stages. It comprises novel protein biomarkers found in exosomes which naturally circulate in the body. The biomarkers have been clinically validated in more than 500 individuals and offer a sensitivity of 97% for early-stage NSCLC patients and a specificity of 98% for all NSCLC patients. Sample collection involves a minimally invasive blood draw. Used prior to CT scanning, this method will help to significantly reduce the false positive rate, leading to improved early detection and diagnosis, and minimize unnecessary follow-up screening and invasive confirmatory tests.",
+        "benefit": "High sensitivity and specificity for NSCLC detection; complements low-dose CT scans to reduce false positives; higher diagnostic efficiency than existing cancer biomarkers; enables detection of all NSCLC stages with high specificity; minimally invasive through a simple blood test.",
+        "market_application": "Regular health screenings for high-risk individuals; pre-imaging blood tests to define high-risk patients and enhance surveillance; identification of different NSCLC stages for disease monitoring and individualized treatment regimens.",
+        "technology_description": "A blood-based diagnostic panel utilizing novel protein biomarkers found in exosomes to accurately detect early-stage Non-Small Cell Lung Cancer (NSCLC) with high sensitivity and specificity.",
+        "publications": {
+          "text": "No related publications found.",
+          "urls": []
+        },
+        "image_urls": [],
+        "licensing_contacts": [
+          {
+            "name": "Sharon Goh",
+            "phone": null,
+            "email": null
+          }
+        ],
+        "researchers": [
+          "Boon Cher GOH",
+          "Henry YANG",
+          "Lingzhi WANG",
+          "Sok Hwee",
+          "Esther CHEOW"
+        ],
+        "organizations": [
+          {
+            "name": "National University of Singapore",
+            "logo_url": null
+          }
+        ],
+        "companies_interested": [],
+        "additional_data": {},
+        "extracted_urls": [
+          "http://tech.nus.edu.sg/earlier-detection-lung-cancer-better-patient-outcome"
+        ]
+      },
+      "timestamp": "2025-11-16T00:53:28.054420",
+      "model": "gpt-4o-search-preview",
+      "scraping_method": "search_model",
+      "completeness_score": 1.0,
+      "web_citations": [
+        "http://tech.nus.edu.sg/earlier-detection-lung-cancer-better-patient-outcome"
+      ]
+    }
+  ]
+}

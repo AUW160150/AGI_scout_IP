@@ -1,0 +1,164 @@
+{
+  "parent_url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies",
+  "extracted_date": "2025-11-15T23:38:53.357323",
+  "total_count": 22,
+  "pages_processed": 26,
+  "multilingual": false,
+  "translation_count": 0,
+  "urls": [
+    {
+      "id": "researchers-mit-community",
+      "url": "https://tlo.mit.edu/researchers-mit-community",
+      "title": "Researchers & MIT Community",
+      "title_original": "Researchers & MIT Community",
+      "translated": false
+    },
+    {
+      "id": "office-hours-sign-up",
+      "url": "https://tlo.mit.edu/office-hours-sign-up",
+      "title": "Office Hours",
+      "title_original": "Office Hours",
+      "translated": false
+    },
+    {
+      "id": "spiral-microfluidics-sorter-circulating-tumor-cells",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/spiral-microfluidics-sorter-circulating-tumor-cells",
+      "title": "Spiral Microfluidics Sorter for Circulating Tumor Cells (CTCs)Isolation",
+      "title_original": "Spiral Microfluidics Sorter for Circulating Tumor Cells (CTCs)Isolation",
+      "translated": false
+    },
+    {
+      "id": "preferential-crystallization-fullraavs-hanging-drop",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/preferential-crystallization-fullraavs-hanging-drop",
+      "title": "Preferential Crystallization of fullrAAVs in a Hanging Drop Crystallizer as an Alternative Method for Downstream Purification of rAAV-based GeneTherapies",
+      "title_original": "Preferential Crystallization of fullrAAVs in a Hanging Drop Crystallizer as an Alternative Method for Downstream Purification of rAAV-based GeneTherapies",
+      "translated": false
+    },
+    {
+      "id": "heater-driven-preemptive-quench-schemes-no-insulation",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/heater-driven-preemptive-quench-schemes-no-insulation",
+      "title": "Heater-Driven Preemptive Quench Schemes for No-Insulation SuperconductingMagnets",
+      "title_original": "Heater-Driven Preemptive Quench Schemes for No-Insulation SuperconductingMagnets",
+      "translated": false
+    },
+    {
+      "id": "surfaces-controlled-cell-adhesion",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/surfaces-controlled-cell-adhesion",
+      "title": "Surfaces for Controlled CellAdhesion",
+      "title_original": "Surfaces for Controlled CellAdhesion",
+      "translated": false
+    },
+    {
+      "id": "representation-learning-object-detection-unlabeled",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/representation-learning-object-detection-unlabeled",
+      "title": "Representation Learning for Object Detection from Unlabeled Point CloudSequences",
+      "title_original": "Representation Learning for Object Detection from Unlabeled Point CloudSequences",
+      "translated": false
+    },
+    {
+      "id": "approach-enriching-production-dna-cargo-loaded-aav5-0",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/approach-enriching-production-dna-cargo-loaded-aav5-0",
+      "title": "An Approach for Enriching the Production of DNA Cargo Loaded AAV5 Capsids inCells",
+      "title_original": "An Approach for Enriching the Production of DNA Cargo Loaded AAV5 Capsids inCells",
+      "translated": false
+    },
+    {
+      "id": "synthesis-z-alkenyl-halides-through-stereoselective-0",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/synthesis-z-alkenyl-halides-through-stereoselective-0",
+      "title": "Synthesis of Z-Alkenyl Halides Through Stereoselective OlefinMetathesis",
+      "title_original": "Synthesis of Z-Alkenyl Halides Through Stereoselective OlefinMetathesis",
+      "translated": false
+    },
+    {
+      "id": "near-infrared-fluorescent-nanosensor-iron",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/near-infrared-fluorescent-nanosensor-iron",
+      "title": "Near Infrared Fluorescent Nanosensor forIron",
+      "title_original": "Near Infrared Fluorescent Nanosensor forIron",
+      "translated": false
+    },
+    {
+      "id": "thin-films-capturing-heavy-metals",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/thin-films-capturing-heavy-metals",
+      "title": "Thin-Films for Capturing HeavyMetals",
+      "title_original": "Thin-Films for Capturing HeavyMetals",
+      "translated": false
+    },
+    {
+      "id": "curved-conformal-and-hybrid-metasurfaces-and",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/curved-conformal-and-hybrid-metasurfaces-and",
+      "title": "Curved, Conformal and Hybrid Metasurfaces and Fabrication MethodsThereof",
+      "title_original": "Curved, Conformal and Hybrid Metasurfaces and Fabrication MethodsThereof",
+      "translated": false
+    },
+    {
+      "id": "automated-optical-measurements-determine",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/automated-optical-measurements-determine",
+      "title": "Automated Optical Measurements to Determine Semiconductor Properties and Predict DevicePerformance",
+      "title_original": "Automated Optical Measurements to Determine Semiconductor Properties and Predict DevicePerformance",
+      "translated": false
+    },
+    {
+      "id": "anti-crispr-delivery-compositions-and-methods",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/anti-crispr-delivery-compositions-and-methods",
+      "title": "Anti-Crispr Delivery Compositions andMethods",
+      "title_original": "Anti-Crispr Delivery Compositions andMethods",
+      "translated": false
+    },
+    {
+      "id": "engineered-protein-rapid-efficient-and-selective",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/engineered-protein-rapid-efficient-and-selective",
+      "title": "Engineered Protein for Rapid, Efficient, and Selective Capture of Pathogen-Specific Antibodies onCellulose",
+      "title_original": "Engineered Protein for Rapid, Efficient, and Selective Capture of Pathogen-Specific Antibodies onCellulose",
+      "translated": false
+    },
+    {
+      "id": "nanobody-based-imaging-and-targeting-ecm-disease-and",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/nanobody-based-imaging-and-targeting-ecm-disease-and",
+      "title": "Nanobody Based Imaging and Targeting of ECM in Disease andDevelopment",
+      "title_original": "Nanobody Based Imaging and Targeting of ECM in Disease andDevelopment",
+      "translated": false
+    },
+    {
+      "id": "apparatus-applications-and-method-wearable-mobility",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/apparatus-applications-and-method-wearable-mobility",
+      "title": "Apparatus, Applications and Method of Wearable Mobility AssistanceRobot",
+      "title_original": "Apparatus, Applications and Method of Wearable Mobility AssistanceRobot",
+      "translated": false
+    },
+    {
+      "id": "hydrodynamically-controlled-electric-fields-high",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/hydrodynamically-controlled-electric-fields-high",
+      "title": "Hydrodynamically Controlled Electric Fields for High Throughput Transformation & High Throughput Parallel TransformationPlatform",
+      "title_original": "Hydrodynamically Controlled Electric Fields for High Throughput Transformation & High Throughput Parallel TransformationPlatform",
+      "translated": false
+    },
+    {
+      "id": "cross-linked-graphene-oxide-films-separation",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/cross-linked-graphene-oxide-films-separation",
+      "title": "Cross-linked Graphene Oxide Films for SeparationProcesses",
+      "title_original": "Cross-linked Graphene Oxide Films for SeparationProcesses",
+      "translated": false
+    },
+    {
+      "id": "flat-optics-based-systems-and-methods-ocular",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/flat-optics-based-systems-and-methods-ocular",
+      "title": "Flat Optics based Systems and Methods for OcularApplications",
+      "title_original": "Flat Optics based Systems and Methods for OcularApplications",
+      "translated": false
+    },
+    {
+      "id": "random-access-memory-dna-storage",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/random-access-memory-dna-storage",
+      "title": "Random Access Memory DNAStorage",
+      "title_original": "Random Access Memory DNAStorage",
+      "translated": false
+    },
+    {
+      "id": "quench-detection-fiber-optic-technology-fbg-and-ulfbg",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/quench-detection-fiber-optic-technology-fbg-and-ulfbg",
+      "title": "Quench Detection with Fiber Optic Technology (FBG and ULFBG) to Detect Onset of Quench In SuperconductingMagnets",
+      "title_original": "Quench Detection with Fiber Optic Technology (FBG and ULFBG) to Detect Onset of Quench In SuperconductingMagnets",
+      "translated": false
+    }
+  ]
+}

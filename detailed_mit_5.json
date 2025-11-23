@@ -1,0 +1,303 @@
+{
+  "scraped_date": "2025-11-16T01:04:22.099928",
+  "total_count": 5,
+  "traditional_count": 0,
+  "search_model_count": 5,
+  "total_cost": 0.15,
+  "model": "gpt-4o-search-preview",
+  "ips": [
+    {
+      "_id": {
+        "$oid": "researchers-mit-community"
+      },
+      "source_id": "unknown",
+      "url": "https://tlo.mit.edu/researchers-mit-community",
+      "details": {
+        "title": null,
+        "post_date": null,
+        "summary": null,
+        "abstract": null,
+        "benefit": null,
+        "market_application": null,
+        "technology_description": null,
+        "publications": {
+          "text": null,
+          "urls": []
+        },
+        "image_urls": [],
+        "licensing_contacts": [
+          {
+            "name": "MIT Technology Licensing Office",
+            "phone": "617-253-6966",
+            "email": "tlo@mit.edu"
+          }
+        ],
+        "researchers": [],
+        "organizations": [
+          {
+            "name": "Massachusetts Institute of Technology",
+            "logo_url": null
+          }
+        ],
+        "companies_interested": [],
+        "additional_data": {},
+        "extracted_urls": [
+          "https://tlo.mit.edu/researchers-mit-community",
+          "https://tlo.mit.edu/contact-us",
+          "https://tlo.mit.edu/researchers-mit-community/connect/connect-your-licensing-officer",
+          "https://tlo.mit.edu/disclose-protect-your-intellectual-property/disclosure-faqs",
+          "https://tlo.mit.edu/about/career-opportunities-internships",
+          "https://tlo.mit.edu/about/frequently-asked-questions",
+          "https://tlo.mit.edu/",
+          "https://news.mit.edu/2024/mit-tops-among-single-campus-universities-us-patents-granted-0411",
+          "https://tlo.mit.edu/sites/default/files/2023-11/TLO-FY2023AnnualReport-LifeCycle.pdf"
+        ]
+      },
+      "timestamp": "2025-11-16T01:03:52.009236",
+      "model": "gpt-4o-search-preview",
+      "scraping_method": "search_model",
+      "completeness_score": 0.25,
+      "web_citations": [
+        "https://tlo.mit.edu/researchers-mit-community",
+        "https://tlo.mit.edu/contact-us",
+        "https://tlo.mit.edu/researchers-mit-community/connect/connect-your-licensing-officer",
+        "https://tlo.mit.edu/disclose-protect-your-intellectual-property/disclosure-faqs",
+        "https://tlo.mit.edu/about/career-opportunities-internships",
+        "https://tlo.mit.edu/about/frequently-asked-questions",
+        "https://tlo.mit.edu/",
+        "https://news.mit.edu/2024/mit-tops-among-single-campus-universities-us-patents-granted-0411",
+        "https://tlo.mit.edu/sites/default/files/2023-11/TLO-FY2023AnnualReport-LifeCycle.pdf"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "spiral-microfluidics-sorter-circulating-tumor-cells"
+      },
+      "source_id": "unknown",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/spiral-microfluidics-sorter-circulating-tumor-cells",
+      "details": {
+        "title": "Spiral Microfluidics Sorter for Circulating Tumor Cells (CTCs) Isolation",
+        "post_date": null,
+        "summary": "A microfluidic device designed to detect and isolate diseased blood cells, such as circulating tumor cells (CTCs), from a blood sample by leveraging differences in cell deformability and size.",
+        "abstract": "The technology involves introducing a blood sample into a microfluidic device with one or more linear channels. Each channel has a specific aspect ratio to isolate diseased blood cells based on their reduced deformability compared to non-diseased cells. Diseased cells are directed to a first outlet, while non-diseased cells flow to a second outlet. Some embodiments utilize spiral channels to enhance separation efficiency.",
+        "benefit": "This method offers a label-free, efficient, and continuous approach to isolate CTCs, facilitating early cancer detection and monitoring without the need for chemical labeling or complex procedures.",
+        "market_application": "Potential applications include cancer diagnostics, monitoring disease progression, and evaluating treatment efficacy by isolating and analyzing CTCs from patient blood samples.",
+        "technology_description": "The device employs microfluidic channels with specific aspect ratios to exploit differences in cell deformability and size. Spiral channel designs enhance the separation process by inducing inertial forces that direct cells to specific outlets based on their physical properties.",
+        "publications": {
+          "text": "Related publications and patents include:",
+          "urls": [
+            "https://patents.google.com/patent/US9458489B2/en"
+          ]
+        },
+        "image_urls": [],
+        "licensing_contacts": [
+          {
+            "name": "MIT Technology Licensing Office",
+            "phone": null,
+            "email": null
+          }
+        ],
+        "researchers": [
+          "Krystyn Van Vliet",
+          "Chwee-Teck Lim",
+          "Jongyoon Han"
+        ],
+        "organizations": [
+          {
+            "name": "Massachusetts Institute of Technology",
+            "logo_url": null
+          }
+        ],
+        "companies_interested": [],
+        "additional_data": {},
+        "extracted_urls": [
+          "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/spiral-microfluidics-sorter-circulating-tumor-cells",
+          "https://patents.google.com/patent/US9458489B2/en"
+        ]
+      },
+      "timestamp": "2025-11-16T01:03:59.276683",
+      "model": "gpt-4o-search-preview",
+      "scraping_method": "search_model",
+      "completeness_score": 1.0,
+      "web_citations": [
+        "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/spiral-microfluidics-sorter-circulating-tumor-cells",
+        "https://patents.google.com/patent/US9458489B2/en"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "preferential-crystallization-fullraavs-hanging-drop"
+      },
+      "source_id": "unknown",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/preferential-crystallization-fullraavs-hanging-drop",
+      "details": {
+        "title": "Preferential Crystallization of fullrAAVs in a Hanging Drop Crystallizer as an Alternative Method for Downstream Purification of rAAV-based Gene Therapies",
+        "post_date": null,
+        "summary": "This technology presents a method for purifying full capsids of recombinant adeno-associated virus (rAAV) vectors from mixtures containing both full and empty capsids. Utilizing a preferential crystallization strategy, it achieves over 90% purity in a single, low-shear step, offering a scalable and cost-effective alternative to traditional purification methods.",
+        "abstract": "The method involves mixing a capsid mixture into a crystallization solution with specific conditions, including precipitant concentration, salt concentration, and pH, to induce the crystallization of full capsids while leaving empty capsids in solution. After incubation, the full capsid crystals are separated, effectively purifying them from empty capsids. These purified crystals can be stored and later reconstituted for use in gene therapy treatments.",
+        "benefit": "Key benefits include a simple crystallization method achieving over 90% concentration of full capsids, a lower cost and scalable approach compared to current purification options, the ability to produce concentrated, stable intermediates for easier storage and transport, reduced patient immune responses by minimizing empty capsid load, and adaptability to purify multiple rAAV serotypes.",
+        "market_application": "Potential applications encompass gene therapy treatments requiring high-purity rAAV vectors, biopharmaceutical manufacturing seeking cost-effective and scalable purification methods, and storage and transport solutions for stable rAAV intermediates.",
+        "technology_description": "This technology leverages preferential crystallization to purify full rAAV capsids from empty ones. The process involves mixing the capsid mixture into a crystallization solution under specific conditions to induce selective crystallization of full capsids. After incubation, the full capsid crystals are separated, achieving over 90% purity in a single step. These purified crystals can be stored and later reconstituted for gene therapy applications.",
+        "publications": {
+          "text": "Related publications include 'Selective Enrichment of Full AAV Capsids' by Vivekananda Bal et al., which demonstrates one-step separation of full capsids using selective crystallization, achieving high purity and yield while maintaining biological activity.",
+          "urls": [
+            "https://arxiv.org/abs/2412.06093"
+          ]
+        },
+        "image_urls": [],
+        "licensing_contacts": [
+          {
+            "name": null,
+            "phone": null,
+            "email": null
+          }
+        ],
+        "researchers": [
+          "Anthony Sinskey",
+          "Vivekananda Bal",
+          "Moo Sun Hong",
+          "Stacy Springs",
+          "Richard D Braatz",
+          "Paul Barone"
+        ],
+        "organizations": [
+          {
+            "name": "Massachusetts Institute of Technology (MIT)",
+            "logo_url": null
+          }
+        ],
+        "companies_interested": [],
+        "additional_data": {},
+        "extracted_urls": [
+          "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/preferential-crystallization-fullraavs-hanging-drop",
+          "https://arxiv.org/abs/2412.06093"
+        ]
+      },
+      "timestamp": "2025-11-16T01:04:07.162764",
+      "model": "gpt-4o-search-preview",
+      "scraping_method": "search_model",
+      "completeness_score": 1.0,
+      "web_citations": [
+        "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/preferential-crystallization-fullraavs-hanging-drop",
+        "https://arxiv.org/abs/2412.06093"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "surfaces-controlled-cell-adhesion"
+      },
+      "source_id": "unknown",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/surfaces-controlled-cell-adhesion",
+      "details": {
+        "title": "Surfaces for Controlled Cell Adhesion",
+        "post_date": null,
+        "summary": null,
+        "abstract": null,
+        "benefit": null,
+        "market_application": null,
+        "technology_description": null,
+        "publications": {
+          "text": null,
+          "urls": []
+        },
+        "image_urls": [],
+        "licensing_contacts": [
+          {
+            "name": null,
+            "phone": null,
+            "email": null
+          }
+        ],
+        "researchers": [
+          "Adel Atari",
+          "Yuen-Yi Tseng",
+          "Caroline McCue",
+          "Kripa K Varanasi"
+        ],
+        "organizations": [
+          {
+            "name": "Massachusetts Institute of Technology",
+            "logo_url": null
+          }
+        ],
+        "companies_interested": [],
+        "additional_data": {},
+        "extracted_urls": [
+          "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/surfaces-controlled-cell-adhesion",
+          "https://tlo.mit.edu/industry-entrepreneurs/researchers/kripa-k-varanasi"
+        ]
+      },
+      "timestamp": "2025-11-16T01:04:13.102883",
+      "model": "gpt-4o-search-preview",
+      "scraping_method": "search_model",
+      "completeness_score": 0.75,
+      "web_citations": [
+        "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/surfaces-controlled-cell-adhesion",
+        "https://tlo.mit.edu/industry-entrepreneurs/researchers/kripa-k-varanasi"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "approach-enriching-production-dna-cargo-loaded-aav5-0"
+      },
+      "source_id": "unknown",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/approach-enriching-production-dna-cargo-loaded-aav5-0",
+      "details": {
+        "title": "An Approach for Enriching the Production of DNA Cargo Loaded AAV5 Capsids in Cells",
+        "post_date": null,
+        "summary": "This technology introduces a two-stage transfection method to enhance the production of recombinant adeno-associated viruses (rAAVs) with a higher proportion of functional, genome-containing particles, addressing limitations like low yields and defective capsids.",
+        "abstract": "The method involves sequentially transfecting host cells with four genetic constructs: (1) adenoviral helper genes (E2A, E4Orf6, and VA RNA), (2) Rep proteins, (3) the gene of interest, and (4) additional Rep and capsid (Cap) genes. This staged approach optimizes the timing of transfection and expression, improving coordination between genome replication and capsid assembly, resulting in a higher yield of functional rAAV particles.",
+        "benefit": "The technology offers higher yields of functional, genome-filled rAAV particles, simplifies purification processes due to fewer empty or defective capsids, provides a scalable and flexible process using modular constructs, and improves vector quality through better control of Rep/Cap expression by staggering transfections.",
+        "market_application": "Potential applications include gene therapy treatments, where efficient and high-quality rAAV production is critical for delivering therapeutic genes to patients.",
+        "technology_description": "By introducing four genetic constructs into host cells and optimizing the timing of their transfection and expression, this method enhances the likelihood that capsids are correctly assembled and filled with therapeutic DNA, overcoming limitations of current production methods such as low yields and the formation of empty or defective capsids.",
+        "publications": {
+          "text": "Related publications include studies on perfusion-based production of rAAV and the effects of multidose transient transfection on rAAV2/5 Rep protein expression and capsid filling.",
+          "urls": [
+            "https://doi.org/10.1002/bit.28967",
+            "https://doi.org/10.1002/bit.28828"
+          ]
+        },
+        "image_urls": [],
+        "licensing_contacts": [
+          {
+            "name": null,
+            "phone": null,
+            "email": null
+          }
+        ],
+        "researchers": [
+          "Paul Barone",
+          "Richard D Braatz",
+          "John Joseph",
+          "Rui Wen Ou",
+          "Anthony Sinskey",
+          "Stacy Springs",
+          "Prasanna Srinivasan",
+          "Jacqueline Wolfrum"
+        ],
+        "organizations": [
+          {
+            "name": "Massachusetts Institute of Technology (MIT)",
+            "logo_url": null
+          }
+        ],
+        "companies_interested": [],
+        "additional_data": {},
+        "extracted_urls": [
+          "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/approach-enriching-production-dna-cargo-loaded-aav5-0",
+          "https://doi.org/10.1002/bit.28967",
+          "https://doi.org/10.1002/bit.28828"
+        ]
+      },
+      "timestamp": "2025-11-16T01:04:21.598237",
+      "model": "gpt-4o-search-preview",
+      "scraping_method": "search_model",
+      "completeness_score": 1.0,
+      "web_citations": [
+        "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/approach-enriching-production-dna-cargo-loaded-aav5-0",
+        "https://doi.org/10.1002/bit.28967",
+        "https://doi.org/10.1002/bit.28828"
+      ]
+    }
+  ]
+}

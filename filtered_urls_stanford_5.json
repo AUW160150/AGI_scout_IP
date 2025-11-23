@@ -1,0 +1,94 @@
+{
+  "parent_url": "https://techfinder.stanford.edu/",
+  "filtered_date": "2025-11-15T23:53:56.652474",
+  "filter_stage": "pre_scraping_filter",
+  "filter_criteria": {
+    "keep_categories": [
+      "Life Sciences",
+      "Medical Devices"
+    ],
+    "min_confidence": 0.5,
+    "llm_mode": "smart"
+  },
+  "statistics": {
+    "total": 15,
+    "life_sciences": 10,
+    "medical_devices": 1,
+    "other": 4,
+    "kept": 5,
+    "discarded": 4
+  },
+  "total_count": 5,
+  "urls": [
+    {
+      "id": "valency-controlled-receptor-systems-cell-engineering-and-therapy",
+      "url": "https://techfinder.stanford.edu/technology/valency-controlled-receptor-systems-cell-engineering-and-therapy",
+      "title": "Valency Controlled Receptor Systems for Cell Engineering and Therapy",
+      "title_original": "Valency Controlled Receptor Systems for Cell Engineering and Therapy",
+      "translated": false,
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.95,
+        "reasoning": "The title refers to receptor systems that are likely involved in cell engineering and therapeutic applications, which aligns closely with biotechnology and therapeutics within the Life Sciences sector.",
+        "classified_date": "2025-11-15T23:53:36.812939",
+        "method": "smart"
+      }
+    },
+    {
+      "id": "rapid-programmable-car-t-cell-engineering-platform-using-antigen-targeted-lentiviral",
+      "url": "https://techfinder.stanford.edu/technology/rapid-programmable-car-t-cell-engineering-platform-using-antigen-targeted-lentiviral",
+      "title": "Rapid Programmable CAR-T Cell Engineering Platform Using Antigen-Targeted Lentiviral Delivery for Same-Day In Vivo and Ex Vivo T Cell Modification",
+      "title_original": "Rapid Programmable CAR-T Cell Engineering Platform Using Antigen-Targeted Lentiviral Delivery for Same-Day In Vivo and Ex Vivo T Cell Modification",
+      "translated": false,
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.95,
+        "reasoning": "The title describes a CAR-T cell engineering platform, which falls under biotechnology and therapeutics, specifically related to gene therapy and cell therapy. This aligns closely with the Life Sciences sector.",
+        "classified_date": "2025-11-15T23:53:38.800456",
+        "method": "smart"
+      }
+    },
+    {
+      "id": "developing-cross-reactive-b7h3-targeting-car-t-cells-enhanced-preclinical-cancer-models",
+      "url": "https://techfinder.stanford.edu/technology/developing-cross-reactive-b7h3-targeting-car-t-cells-enhanced-preclinical-cancer-models",
+      "title": "Developing Cross-reactive B7H3-targeting CAR-T Cells for Enhanced Preclinical Cancer Models",
+      "title_original": "Developing Cross-reactive B7H3-targeting CAR-T Cells for Enhanced Preclinical Cancer Models",
+      "translated": false,
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.95,
+        "reasoning": "The title involves CAR-T cell therapy, which is a form of gene/cell therapy used in cancer treatment, fitting well within the Life Sciences sector focused on therapeutics and biotechnology.",
+        "classified_date": "2025-11-15T23:53:40.533243",
+        "method": "smart"
+      }
+    },
+    {
+      "id": "composition-and-methods-selective-expansion-car-t-cells-made-vivo-or-ex-vivo-il9r",
+      "url": "https://techfinder.stanford.edu/technology/composition-and-methods-selective-expansion-car-t-cells-made-vivo-or-ex-vivo-il9r",
+      "title": "Composition and Methods for Selective Expansion of CAR-T Cells Made in vivo or ex-vivo with the IL9R",
+      "title_original": "Composition and Methods for Selective Expansion of CAR-T Cells Made in vivo or ex-vivo with the IL9R",
+      "translated": false,
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.95,
+        "reasoning": "The title pertains to CAR-T cell therapy, which is a form of gene therapy and falls under the category of therapeutics and biotechnology within the Life Sciences sector.",
+        "classified_date": "2025-11-15T23:53:42.304166",
+        "method": "smart"
+      }
+    },
+    {
+      "id": "audio-augmentation-wearable-enhance-attention-and-mindfulness",
+      "url": "https://techfinder.stanford.edu/technology/audio-augmentation-wearable-enhance-attention-and-mindfulness",
+      "title": "Audio Augmentation Wearable to Enhance Attention and Mindfulness",
+      "title_original": "Audio Augmentation Wearable to Enhance Attention and Mindfulness",
+      "translated": false,
+      "classification": {
+        "mainSector": "Medical Devices",
+        "confidence": 0.85,
+        "reasoning": "The product is a wearable device designed to enhance attention and mindfulness, which aligns with health-tech devices and monitoring devices in the Medical Devices sector.",
+        "classified_date": "2025-11-15T23:53:43.784637",
+        "method": "smart"
+      }
+    }
+  ]
+}

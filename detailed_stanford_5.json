@@ -1,0 +1,309 @@
+{
+  "scraped_date": "2025-11-16T01:08:23.458513",
+  "total_count": 5,
+  "traditional_count": 0,
+  "search_model_count": 5,
+  "total_cost": 0.15,
+  "model": "gpt-4o-search-preview",
+  "ips": [
+    {
+      "_id": {
+        "$oid": "valency-controlled-receptor-systems-cell-engineering-and-therapy"
+      },
+      "source_id": "unknown",
+      "url": "https://techfinder.stanford.edu/technology/valency-controlled-receptor-systems-cell-engineering-and-therapy",
+      "details": {
+        "title": "Valency Controlled Receptor Systems for Cell Engineering and Therapy",
+        "post_date": null,
+        "summary": "Stanford researchers have developed a synthetic transmembrane receptor system that enables precise control over cellular signaling pathways, enhancing the efficacy and safety of cell-based therapies.",
+        "abstract": "The Qi lab at Stanford has created a molecular tool to convert natural or synthetic transmembrane receptors into valency-controllable systems. This synthetic receptor can receive diverse biophysiochemical inputs and activate downstream signals, allowing for controlled modulation of cellular pathways. Integrating this receptor into cells enables precise control over cellular responses, potentially improving therapies targeting infectious diseases, regenerative medicine, and cancer.",
+        "benefit": "This technology offers secondary control of cellular responses, precise target engagement to enhance safety and efficacy, adaptability to different costimulatory domains, programmability to activate native cellular pathways, and the ability to recognize both surface-bound and soluble factors in an AND/OR gated format.",
+        "market_application": "Potential applications include next-generation cell therapies targeting cancer, viral and bacterial infections, wound healing, autoimmunity, and modulation of immune and other cells via cellular engineering, including CAR-T therapies.",
+        "technology_description": "The invention involves a synthetic transmembrane receptor system that can be integrated into cells to modulate diverse signaling pathways. This system is inducible and druggable, providing a customizable tool for advancing therapies in various medical fields.",
+        "publications": {
+          "text": "Related publications include a published application titled 'WO2023087024' and another titled '20250017960'.",
+          "urls": [
+            "https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2023087024",
+            "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20250017960"
+          ]
+        },
+        "image_urls": [],
+        "licensing_contacts": [
+          {
+            "name": "Mona Wan",
+            "phone": null,
+            "email": "mona.wan@stanford.edu"
+          }
+        ],
+        "researchers": [
+          "Lei Qi",
+          "Paul Finn"
+        ],
+        "organizations": [
+          {
+            "name": "Stanford University",
+            "logo_url": null
+          }
+        ],
+        "companies_interested": [],
+        "additional_data": {},
+        "extracted_urls": [
+          "https://techfinder.stanford.edu/technology/valency-controlled-receptor-systems-cell-engineering-and-therapy",
+          "https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2023087024",
+          "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20250017960",
+          "https://med.stanford.edu/qilab.html"
+        ]
+      },
+      "timestamp": "2025-11-16T01:07:44.251451",
+      "model": "gpt-4o-search-preview",
+      "scraping_method": "search_model",
+      "completeness_score": 1.0,
+      "web_citations": [
+        "https://techfinder.stanford.edu/technology/valency-controlled-receptor-systems-cell-engineering-and-therapy",
+        "https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2023087024",
+        "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20250017960",
+        "https://med.stanford.edu/qilab.html"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "rapid-programmable-car-t-cell-engineering-platform-using-antigen-targeted-lentiviral"
+      },
+      "source_id": "unknown",
+      "url": "https://techfinder.stanford.edu/technology/rapid-programmable-car-t-cell-engineering-platform-using-antigen-targeted-lentiviral",
+      "details": {
+        "title": "Rapid Programmable CAR-T Cell Engineering Platform Using Antigen-Targeted Lentiviral Delivery for Same-Day In Vivo and Ex Vivo T Cell Modification",
+        "post_date": null,
+        "summary": "Stanford scientists have developed the PACK-IT platform, enabling rapid CAR-T cell engineering in hours rather than weeks by using engineered lentiviral particles with T cell-targeting antibodies to deliver CAR genes directly to T cells in vivo or ex vivo without traditional activation and expansion steps.",
+        "abstract": "The PACK-IT platform employs engineered lentiviral particles with modified envelope proteins that enable targeted delivery of genetic cargo to specific cell types. These particles are equipped with T cell-targeting antibodies that direct viral entry specifically to T cells through binding to T cell surface receptors. This targeted approach enables CAR gene delivery directly to T cells in vivo through systemic administration or ex vivo with ultra-short exposure times of less than 2 hours, eliminating the need for traditional activation and expansion steps. Consequently, PACK-IT has the potential to drastically reduce CAR-T manufacturing costs and timelines while preserving T cell potency for enhanced therapeutic efficacy.",
+        "benefit": "PACK-IT eliminates the need for costly T cell activation reagents and antibody-coated beads, reduces manufacturing timelines from weeks to hours, preserves T cell potency by avoiding extensive ex vivo culture and activation, enables direct in vivo CAR-T generation without ex vivo processing, and offers a modular platform accommodating diverse targeting strategies and genetic cargos.",
+        "market_application": "Applications include rapid CAR-T cell manufacturing with reduced timelines and costs, in vivo CAR-T cell engineering through direct systemic delivery, enhanced ex vivo CAR-T production with ultra-short exposure times, manufacturing CAR-T cells with various functional phenotypes, delivery of alternative genetic cargos to T cells including TCRs, cytokines, and transcription factors, and targeted genetic modification of tumor microenvironment components, including tumor cells.",
+        "technology_description": "PACK-IT uses engineered lentiviral particles with T cell-targeting antibodies to deliver CAR genes directly to T cells in vivo or ex vivo without requiring traditional T cell activation and expansion steps, potentially preserving greater T cell potency for therapeutic applications.",
+        "publications": {
+          "text": "No specific publications were found related to this technology.",
+          "urls": []
+        },
+        "image_urls": [],
+        "licensing_contacts": [
+          {
+            "name": "Minxing Li",
+            "phone": null,
+            "email": "minxing.li@stanford.edu"
+          }
+        ],
+        "researchers": [
+          "Kylie Burdsall",
+          "Elena Sotillo",
+          "Howard Chang",
+          "Crystal Mackall"
+        ],
+        "organizations": [
+          {
+            "name": "Stanford University",
+            "logo_url": null
+          }
+        ],
+        "companies_interested": [],
+        "additional_data": {},
+        "extracted_urls": [
+          "https://techfinder.stanford.edu/technology/rapid-programmable-car-t-cell-engineering-platform-using-antigen-targeted-lentiviral",
+          "https://med.stanford.edu/mackalllab.html",
+          "https://profiles.stanford.edu/crystal-mackall"
+        ]
+      },
+      "timestamp": "2025-11-16T01:07:52.952721",
+      "model": "gpt-4o-search-preview",
+      "scraping_method": "search_model",
+      "completeness_score": 1.0,
+      "web_citations": [
+        "https://techfinder.stanford.edu/technology/rapid-programmable-car-t-cell-engineering-platform-using-antigen-targeted-lentiviral",
+        "https://med.stanford.edu/mackalllab.html",
+        "https://profiles.stanford.edu/crystal-mackall"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "developing-cross-reactive-b7h3-targeting-car-t-cells-enhanced-preclinical-cancer-models"
+      },
+      "source_id": "unknown",
+      "url": "https://techfinder.stanford.edu/technology/developing-cross-reactive-b7h3-targeting-car-t-cells-enhanced-preclinical-cancer-models",
+      "details": {
+        "title": "Developing Cross-reactive B7H3-targeting CAR-T Cells for Enhanced Preclinical Cancer Models",
+        "post_date": null,
+        "summary": "Stanford scientists have engineered species cross-reactive B7H3-targeting CAR-T cells capable of effectively targeting both human and mouse tumors. This advancement enables more accurate preclinical testing in immunocompetent models, improving the predictive value of studies and reducing clinical trial failures.",
+        "abstract": "CAR-T cell therapies have been successful in treating blood cancers, but their efficacy in solid tumors has been limited. Traditional preclinical development often involves testing human CAR-T cells against human tumors in immunocompromised mouse models, which do not accurately predict clinical performance due to the lack of a complex tumor immune microenvironment. This limitation has led to mixed results for solid tumor CAR-T therapies, including early B7H3-targeting approaches that showed limited efficacy and adverse events. B7H3 is a promising pan-cancer target, highly expressed across multiple solid tumor types with minimal expression in healthy tissues. However, existing B7H3 CAR-T cells lack species cross-reactivity, hindering meaningful preclinical testing in immunocompetent models. By engineering B7H3-targeting CAR-T cells with species cross-reactivity through directed evolution, researchers developed variants maintaining high affinity for both human and mouse B7H3. Preclinical studies demonstrated effective tumor control in both human and mouse models, with superior in vivo performance and no observed toxicity at high doses. This species cross-reactive approach has the potential to significantly improve preclinical testing accuracy, reduce development risks, and enhance the clinical translation success of B7H3-targeting CAR-T therapies across multiple solid tumor types.",
+        "benefit": "The cross-reactive B7H3-targeting CAR-T cells enable testing in immunocompetent models that better predict clinical outcomes, allow the use of a single CAR sequence from preclinical development through clinical trials, exhibit a superior safety profile with no observed toxicity at high doses, and reduce development risk while improving clinical translation potential compared to existing B7H3 CAR approaches.",
+        "market_application": "This technology is applicable in the development of B7H3-targeting CAR-T therapies for solid tumors, enhanced preclinical testing in immunocompetent mouse models, and as a pan-cancer therapeutic platform for multiple solid tumor types.",
+        "technology_description": "The technology involves engineering B7H3-targeting CAR-T cells with species cross-reactivity through directed evolution, resulting in variants that maintain high affinity for both human and mouse B7H3. In preclinical studies, these cross-reactive CAR-T cells demonstrated effective tumor control in both human and mouse models, with superior in vivo performance and no observed toxicity at high doses.",
+        "publications": {
+          "text": "No specific publications are listed for this technology.",
+          "urls": []
+        },
+        "image_urls": [],
+        "licensing_contacts": [
+          {
+            "name": "Minxing Li",
+            "phone": null,
+            "email": "minxing.li@stanford.edu"
+          }
+        ],
+        "researchers": [
+          "Sean Yamada-Hunter",
+          "Elena Sotillo",
+          "Naiara Martinez Velez",
+          "Robert Lee",
+          "Phillip Liu",
+          "Jennifer Cochran",
+          "Crystal Mackall"
+        ],
+        "organizations": [
+          {
+            "name": "Stanford University",
+            "logo_url": null
+          }
+        ],
+        "companies_interested": [],
+        "additional_data": {},
+        "extracted_urls": [
+          "https://techfinder.stanford.edu/technology/developing-cross-reactive-b7h3-targeting-car-t-cells-enhanced-preclinical-cancer-models",
+          "https://med.stanford.edu",
+          "https://profiles.stanford.edu",
+          "https://cochranlab.stanford.edu",
+          "https://otl.stanford.edu"
+        ]
+      },
+      "timestamp": "2025-11-16T01:08:02.782795",
+      "model": "gpt-4o-search-preview",
+      "scraping_method": "search_model",
+      "completeness_score": 1.0,
+      "web_citations": [
+        "https://techfinder.stanford.edu/technology/developing-cross-reactive-b7h3-targeting-car-t-cells-enhanced-preclinical-cancer-models"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "composition-and-methods-selective-expansion-car-t-cells-made-vivo-or-ex-vivo-il9r"
+      },
+      "source_id": "unknown",
+      "url": "https://techfinder.stanford.edu/technology/composition-and-methods-selective-expansion-car-t-cells-made-vivo-or-ex-vivo-il9r",
+      "details": {
+        "title": "Composition and Methods for Selective Expansion of CAR-T Cells Made in vivo or ex-vivo with the IL9R",
+        "post_date": null,
+        "summary": "Stanford scientists have developed a method to selectively expand CAR-T cells by co-delivering IL9R with CAR genes using a novel platform that enables rapid CAR-T cell engineering through targeted lentiviral delivery. This approach promotes selective expansion of engineered T cells through IL9 cytokine treatment, eliminating the need for traditional lymphodepletion procedures and achieving enhanced anti-tumor efficacy.",
+        "abstract": "Current CAR-T cell manufacturing processes require lymphodepletion prior to infusion to promote CAR-T cell engraftment and expansion in patients. While lymphodepletion creates a favorable microenvironment for CAR-T cell activation and proliferation, it puts patients at significant risk of infections and cytopenia due to the depletion of normal immune cells. Additionally, emerging rapid CAR-T manufacturing platforms enable in vivo engineering but face significant challenges. These approaches cannot utilize traditional lymphodepletion methods, as this would eliminate the T cells targeted for engineering, and the rapid in vivo modification process produces relatively low numbers of CAR-positive T cells compared to conventional manufacturing. Therefore, a method to selectively expand engineered T cells while promoting optimal anti-tumor signaling is essential for successful in-vivo CAR-T cell therapy. Co-delivering IL9R with CAR genes enables selective expansion of engineered T cells through treatment with IL9, a naturally orthogonal cytokine that specifically targets cells expressing the co-delivered receptor. This approach promotes optimal JAK/STAT signaling for enhanced T cell proliferation and anti-tumor function without affecting non-engineered cells. In preclinical studies, CAR-T cells co-delivered with IL9R demonstrated significantly enhanced expansion and anti-tumor potency compared to CAR alone in leukemia models. Consequently, IL9R co-delivery has the potential to overcome the key limitations of rapid in vivo CAR-T manufacturing by enabling selective expansion without requiring lymphodepletion, offering a safer and more effective approach to CAR-T cell therapy.",
+        "benefit": "Eliminates the need for dangerous lymphodepletion procedures, enables selective expansion of only engineered T cells through orthogonal cytokine signaling, significantly increases CAR-T cell numbers compared to rapid manufacturing alone, promotes optimal anti-tumor JAK/STAT signaling profile, compatible with both in vivo and ex vivo manufacturing approaches, reduces patient risk of infections and cytopenia.",
+        "market_application": "Selective expansion of CAR-T cells in vivo without lymphodepletion, enhanced ex vivo CAR-T manufacturing with reduced timelines, treatment of hematologic malignancies and solid tumors requiring high CAR-T cell numbers or treatment of autoimmune diseases responsive to CAR-T cells, development of safer CAR-T therapies with reduced infection risk.",
+        "technology_description": "Co-delivering IL9R with CAR genes enables selective expansion of engineered T cells through treatment with IL9, a naturally orthogonal cytokine that specifically targets cells expressing the co-delivered receptor. This approach promotes optimal JAK/STAT signaling for enhanced T cell proliferation and anti-tumor function without affecting non-engineered cells. In preclinical studies, CAR-T cells co-delivered with IL9R demonstrated significantly enhanced expansion and anti-tumor potency compared to CAR alone in leukemia models.",
+        "publications": {
+          "text": "Hua Jiang, Sam Limsuwannarot, Kayla R. Kulhanek, Aastha Pal, Lea W. Rysavy, Leon Su, Ossama Labiad, Stefano Testa, Heather Ogana, Deepa Waghray, Pingdong Tao, Kevin M. Jude, Christopher S. Seet, Gay M. Crooks, Everett J. Moding, K. Christopher Garcia, Anusha Kalbasi (2025). IL-9 as a naturally orthogonal cytokine with optimal JAK/STAT signaling for engineered T cell therapy. bioRxiv 2025.01.15.633105.",
+          "urls": [
+            "https://doi.org/10.1101/2025.01.15.633105"
+          ]
+        },
+        "image_urls": [],
+        "licensing_contacts": [
+          {
+            "name": "Minxing Li",
+            "phone": null,
+            "email": null
+          }
+        ],
+        "researchers": [
+          "Kylie Burdsall",
+          "Elena Sotillo",
+          "Crystal Mackall",
+          "Anusha Kalbasi"
+        ],
+        "organizations": [
+          {
+            "name": "Stanford University",
+            "logo_url": null
+          }
+        ],
+        "companies_interested": [],
+        "additional_data": {},
+        "extracted_urls": [
+          "https://techfinder.stanford.edu/technology/composition-and-methods-selective-expansion-car-t-cells-made-vivo-or-ex-vivo-il9r",
+          "https://doi.org/10.1101/2025.01.15.633105",
+          "https://www.sciencedirect.com",
+          "https://med.stanford.edu",
+          "https://profiles.stanford.edu",
+          "https://kalbasilab.org"
+        ]
+      },
+      "timestamp": "2025-11-16T01:08:12.819397",
+      "model": "gpt-4o-search-preview",
+      "scraping_method": "search_model",
+      "completeness_score": 1.0,
+      "web_citations": [
+        "https://techfinder.stanford.edu/technology/composition-and-methods-selective-expansion-car-t-cells-made-vivo-or-ex-vivo-il9r",
+        "https://doi.org/10.1101/2025.01.15.633105",
+        "https://www.sciencedirect.com",
+        "https://med.stanford.edu",
+        "https://profiles.stanford.edu",
+        "https://kalbasilab.org"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "audio-augmentation-wearable-enhance-attention-and-mindfulness"
+      },
+      "source_id": "unknown",
+      "url": "https://techfinder.stanford.edu/technology/audio-augmentation-wearable-enhance-attention-and-mindfulness",
+      "details": {
+        "title": "Audio Augmentation Wearable to Enhance Attention and Mindfulness",
+        "post_date": null,
+        "summary": "Stanford researchers have developed an innovative wearable device that enhances mindfulness training by augmenting the user's real-time auditory environment, fostering deeper focus and engagement in real-world settings.",
+        "abstract": "The wearable system addresses challenges in mindfulness training by augmenting familiar sounds produced in everyday interactions and redirecting attention to the present moment through real-time audio feedback. By integrating sensory augmentation into mindfulness practice, this technology empowers mindfulness trainings beyond seated meditation and into experiences interwoven with everyday activities, such as mindful eating, walking, and cooking.",
+        "benefit": "Enhances focus through ambient sound amplification, enables mindfulness in real-world settings, and is wearable, non-invasive, and easy to adopt.",
+        "market_application": "Potential applications include audio-augmented mindfulness and meditation training, wellness wearables for consumer mental health, digital therapeutic tools for attention training, support for individuals with hearing loss, and enhancement of general entertainment experiences.",
+        "technology_description": "The device introduces a new paradigm for mental health tools by integrating sensory augmentation into mindfulness practice, appealing to wellness-oriented consumers, mental health professionals, and digital therapeutics platforms seeking more effective, embodied mindfulness solutions.",
+        "publications": {
+          "text": "Related publications include 'Audio Personas: Augmenting Social Perception via Body-Anchored Audio Cues' by Yujie Tao, Libby Ye, Jeremy N. Bailenson, and Sean Follmer, published in Transactions on Computer-Human Interaction (TOCHI) in November 2025.",
+          "urls": [
+            "https://vhil.stanford.edu/publications/augmented-reality/audio-personas-augmenting-social-perception-body-anchored-audio-cues"
+          ]
+        },
+        "image_urls": [],
+        "licensing_contacts": [
+          {
+            "name": "David Mallin",
+            "phone": null,
+            "email": null
+          }
+        ],
+        "researchers": [
+          "Sean Follmer",
+          "Yujie Tao",
+          "Jeremy Bailenson"
+        ],
+        "organizations": [
+          {
+            "name": "Stanford University",
+            "logo_url": null
+          }
+        ],
+        "companies_interested": [],
+        "additional_data": {},
+        "extracted_urls": [
+          "https://techfinder.stanford.edu/technology/audio-augmentation-wearable-enhance-attention-and-mindfulness",
+          "https://vhil.stanford.edu/publications/augmented-reality/audio-personas-augmenting-social-perception-body-anchored-audio-cues",
+          "https://vhil.stanford.edu/projects/2024/Multisensory-Mixed-Reality",
+          "https://vhil.stanford.edu/publications/videoconferencing/facial-appearance-dissatisfaction-explains-differences-zoom-fatigue",
+          "https://vhil.stanford.edu/publications/social-interaction/non-zero-sum-mutual-gaze-collaborative-virtual-environments"
+        ]
+      },
+      "timestamp": "2025-11-16T01:08:22.955945",
+      "model": "gpt-4o-search-preview",
+      "scraping_method": "search_model",
+      "completeness_score": 1.0,
+      "web_citations": [
+        "https://techfinder.stanford.edu/technology/audio-augmentation-wearable-enhance-attention-and-mindfulness",
+        "https://vhil.stanford.edu/publications/augmented-reality/audio-personas-augmenting-social-perception-body-anchored-audio-cues",
+        "https://vhil.stanford.edu/projects/2024/Multisensory-Mixed-Reality",
+        "https://vhil.stanford.edu/publications/videoconferencing/facial-appearance-dissatisfaction-explains-differences-zoom-fatigue",
+        "https://vhil.stanford.edu/publications/social-interaction/non-zero-sum-mutual-gaze-collaborative-virtual-environments"
+      ]
+    }
+  ]
+}

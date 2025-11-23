@@ -1,0 +1,367 @@
+{
+  "parent_url": "https://www.tto.hku.hk/technology",
+  "extracted_date": "2025-11-10T00:10:35.039073",
+  "total_count": 51,
+  "pages_processed": 6,
+  "multilingual": false,
+  "translation_count": 0,
+  "urls": [
+    {
+      "id": "technologies-and-products",
+      "url": "https://www.tto.hku.hk/technologies-and-products",
+      "title": "Technologies and Products",
+      "title_original": "Technologies and Products",
+      "translated": false
+    },
+    {
+      "id": "rsv-vaccine",
+      "url": "https://www.tto.hku.hk/technology/rsv-vaccine",
+      "title": "Rsv Vaccine",
+      "title_original": "Rsv Vaccine",
+      "translated": false
+    },
+    {
+      "id": "in-vitro-generation-of-an-osteochondral-interface",
+      "url": "https://www.tto.hku.hk/technology/in-vitro-generation-of-an-osteochondral-interface",
+      "title": "In Vitro Generation Of An Osteochondral Interface",
+      "title_original": "In Vitro Generation Of An Osteochondral Interface",
+      "translated": false
+    },
+    {
+      "id": "msc-microspheres-for-regenerative-medicine",
+      "url": "https://www.tto.hku.hk/technology/msc-microspheres-for-regenerative-medicine",
+      "title": "Msc Microspheres For Regenerative Medicine",
+      "title_original": "Msc Microspheres For Regenerative Medicine",
+      "translated": false
+    },
+    {
+      "id": "metallo-supramolecular-branched-polymer-for-cryo-em-sample-preparation",
+      "url": "https://www.tto.hku.hk/technology/metallo-supramolecular-branched-polymer-for-cryo-em-sample-preparation",
+      "title": "Metallo Supramolecular Branched Polymer For Cryo Em Sample Preparation",
+      "title_original": "Metallo Supramolecular Branched Polymer For Cryo Em Sample Preparation",
+      "translated": false
+    },
+    {
+      "id": "synthetic-bacteria-vaccine-against-antibiotics-resistant-bacteria",
+      "url": "https://www.tto.hku.hk/technology/synthetic-bacteria-vaccine-against-antibiotics-resistant-bacteria",
+      "title": "Synthetic Bacteria Vaccine Against Antibiotics Resistant Bacteria",
+      "title_original": "Synthetic Bacteria Vaccine Against Antibiotics Resistant Bacteria",
+      "translated": false
+    },
+    {
+      "id": "bioengineered-hair-follicles",
+      "url": "https://www.tto.hku.hk/technology/bioengineered-hair-follicles",
+      "title": "Bioengineered Hair Follicles",
+      "title_original": "Bioengineered Hair Follicles",
+      "translated": false
+    },
+    {
+      "id": "novel-small-molecule-mrgprx2-antagonists-for-the-treatment-of-allergic-reactions",
+      "url": "https://www.tto.hku.hk/technology/novel-small-molecule-mrgprx2-antagonists-for-the-treatment-of-allergic-reactions",
+      "title": "Novel Small Molecule Mrgprx2 Antagonists For The Treatment Of Allergic Reactions",
+      "title_original": "Novel Small Molecule Mrgprx2 Antagonists For The Treatment Of Allergic Reactions",
+      "translated": false
+    },
+    {
+      "id": "fecal-microbial-biomarkers-for-non-alcoholic-fatty-liver-disease",
+      "url": "https://www.tto.hku.hk/technology/fecal-microbial-biomarkers-for-non-alcoholic-fatty-liver-disease",
+      "title": "Fecal Microbial Biomarkers For Non Alcoholic Fatty Liver Disease",
+      "title_original": "Fecal Microbial Biomarkers For Non Alcoholic Fatty Liver Disease",
+      "translated": false
+    },
+    {
+      "id": "legal-notice-and-terms-of-use",
+      "url": "https://www.tto.hku.hk/legal-notice-and-terms-of-use",
+      "title": "Legal Notice & Terms of Use",
+      "title_original": "Legal Notice & Terms of Use",
+      "translated": false
+    },
+    {
+      "id": "www.tto.hku.hk",
+      "url": "https://www.tto.hku.hk/technology/page2",
+      "title": "Skip to main content",
+      "title_original": "Skip to main content",
+      "translated": false
+    },
+    {
+      "id": "adiponectin-glycopeptides-synthesis-and-its-potential-for-metabolic-diseases",
+      "url": "https://www.tto.hku.hk/technology/adiponectin-glycopeptides-synthesis-and-its-potential-for-metabolic-diseases",
+      "title": "Adiponectin Glycopeptides Synthesis And Its Potential For Metabolic Diseases",
+      "title_original": "Adiponectin Glycopeptides Synthesis And Its Potential For Metabolic Diseases",
+      "translated": false
+    },
+    {
+      "id": "virus-like-particles-vlp-for-the-diagnosis-of-and-protection-against-rat-hepatitis-e-infection",
+      "url": "https://www.tto.hku.hk/technology/virus-like-particles-vlp-for-the-diagnosis-of-and-protection-against-rat-hepatitis-e-infection",
+      "title": "Virus Like Particles Vlp For The Diagnosis Of And Protection Against Rat Hepatitis E Infection",
+      "title_original": "Virus Like Particles Vlp For The Diagnosis Of And Protection Against Rat Hepatitis E Infection",
+      "translated": false
+    },
+    {
+      "id": "endosomal-acidification-inhibitors-for-influenza-virus-and-coronavirus-treatment",
+      "url": "https://www.tto.hku.hk/technology/endosomal-acidification-inhibitors-for-influenza-virus-and-coronavirus-treatment",
+      "title": "Endosomal Acidification Inhibitors For Influenza Virus And Coronavirus Treatment",
+      "title_original": "Endosomal Acidification Inhibitors For Influenza Virus And Coronavirus Treatment",
+      "translated": false
+    },
+    {
+      "id": "a-dual-functional-antiviral-peptide-inhibits-two-entry-pathways-of-sars-cov-2",
+      "url": "https://www.tto.hku.hk/technology/a-dual-functional-antiviral-peptide-inhibits-two-entry-pathways-of-sars-cov-2",
+      "title": "A Dual Functional Antiviral Peptide Inhibits Two Entry Pathways Of Sars Cov 2",
+      "title_original": "A Dual Functional Antiviral Peptide Inhibits Two Entry Pathways Of Sars Cov 2",
+      "translated": false
+    },
+    {
+      "id": "novel-biomaterial-with-ultra-high-content-of-gag",
+      "url": "https://www.tto.hku.hk/technology/novel-biomaterial-with-ultra-high-content-of-gag",
+      "title": "Novel Biomaterial With Ultra High Content Of Gag",
+      "title_original": "Novel Biomaterial With Ultra High Content Of Gag",
+      "translated": false
+    },
+    {
+      "id": "highly-effective-covid-19-vaccine-using-linked-immunodominant-linear-peptides-from-sars-cov2",
+      "url": "https://www.tto.hku.hk/technology/highly-effective-covid-19-vaccine-using-linked-immunodominant-linear-peptides-from-sars-cov2",
+      "title": "Highly Effective Covid 19 Vaccine Using Linked Immunodominant Linear Peptides From Sars Cov2",
+      "title_original": "Highly Effective Covid 19 Vaccine Using Linked Immunodominant Linear Peptides From Sars Cov2",
+      "translated": false
+    },
+    {
+      "id": "a-novel-jig-to-assist-accurate-insertion-of-s2ai-screw",
+      "url": "https://www.tto.hku.hk/technology/a-novel-jig-to-assist-accurate-insertion-of-s2ai-screw",
+      "title": "A Novel Jig To Assist Accurate Insertion Of S2Ai Screw",
+      "title_original": "A Novel Jig To Assist Accurate Insertion Of S2Ai Screw",
+      "translated": false
+    },
+    {
+      "id": "photo-responsive-carrier-for-hydrophobic-small-molecule-delivery-at-target-site",
+      "url": "https://www.tto.hku.hk/technology/photo-responsive-carrier-for-hydrophobic-small-molecule-delivery-at-target-site",
+      "title": "Photo Responsive Carrier For Hydrophobic Small Molecule Delivery At Target Site",
+      "title_original": "Photo Responsive Carrier For Hydrophobic Small Molecule Delivery At Target Site",
+      "translated": false
+    },
+    {
+      "id": "www.tto.hku.hk",
+      "url": "https://www.tto.hku.hk/technology/page3",
+      "title": "Skip to main content",
+      "title_original": "Skip to main content",
+      "translated": false
+    },
+    {
+      "id": "combination-of-polymyxin-antibiotic-and-mobile-colistin-resistant-protein-inhibitor-for-treating-superbug",
+      "url": "https://www.tto.hku.hk/technology/combination-of-polymyxin-antibiotic-and-mobile-colistin-resistant-protein-inhibitor-for-treating-superbug",
+      "title": "Combination Of Polymyxin Antibiotic And Mobile Colistin Resistant Protein Inhibitor For Treating Superbug",
+      "title_original": "Combination Of Polymyxin Antibiotic And Mobile Colistin Resistant Protein Inhibitor For Treating Superbug",
+      "translated": false
+    },
+    {
+      "id": "hematopoietic-stem-cell-based-gene-therapy-for-metachromatic-leukodystrophy-mld",
+      "url": "https://www.tto.hku.hk/technology/hematopoietic-stem-cell-based-gene-therapy-for-metachromatic-leukodystrophy-mld",
+      "title": "Hematopoietic Stem Cell Based Gene Therapy For Metachromatic Leukodystrophy Mld",
+      "title_original": "Hematopoietic Stem Cell Based Gene Therapy For Metachromatic Leukodystrophy Mld",
+      "translated": false
+    },
+    {
+      "id": "method-and-usage-of-immune-potent-imscs-from-human-derived-mesenchymal-stem-cells",
+      "url": "https://www.tto.hku.hk/technology/method-and-usage-of-immune-potent-imscs-from-human-derived-mesenchymal-stem-cells",
+      "title": "Method And Usage Of Immune Potent Imscs From Human Derived Mesenchymal Stem Cells",
+      "title_original": "Method And Usage Of Immune Potent Imscs From Human Derived Mesenchymal Stem Cells",
+      "translated": false
+    },
+    {
+      "id": "probiotic-compositions-containing-bacteriophage-to-treat-or-prevent-psoriasis",
+      "url": "https://www.tto.hku.hk/technology/probiotic-compositions-containing-bacteriophage-to-treat-or-prevent-psoriasis",
+      "title": "Probiotic Compositions Containing Bacteriophage To Treat Or Prevent Psoriasis",
+      "title_original": "Probiotic Compositions Containing Bacteriophage To Treat Or Prevent Psoriasis",
+      "translated": false
+    },
+    {
+      "id": "regulatory-t-cell-therapy-for-immune-related-diseases",
+      "url": "https://www.tto.hku.hk/technology/regulatory-t-cell-therapy-for-immune-related-diseases",
+      "title": "Regulatory T Cell Therapy For Immune Related Diseases",
+      "title_original": "Regulatory T Cell Therapy For Immune Related Diseases",
+      "translated": false
+    },
+    {
+      "id": "anti-leakage-surgical-kit-for-filling-cavities-with-therapeutic-agents",
+      "url": "https://www.tto.hku.hk/technology/anti-leakage-surgical-kit-for-filling-cavities-with-therapeutic-agents",
+      "title": "Anti Leakage Surgical Kit For Filling Cavities With Therapeutic Agents",
+      "title_original": "Anti Leakage Surgical Kit For Filling Cavities With Therapeutic Agents",
+      "translated": false
+    },
+    {
+      "id": "bio-engineered-bacteria-for-cancer-therapy",
+      "url": "https://www.tto.hku.hk/technology/bio-engineered-bacteria-for-cancer-therapy",
+      "title": "Bio Engineered Bacteria For Cancer Therapy",
+      "title_original": "Bio Engineered Bacteria For Cancer Therapy",
+      "translated": false
+    },
+    {
+      "id": "the-first-class-of-inhibitors-for-yeats-domain-as-potential-therapeutic-agents-for-acute-leukemia",
+      "url": "https://www.tto.hku.hk/technology/the-first-class-of-inhibitors-for-yeats-domain-as-potential-therapeutic-agents-for-acute-leukemia",
+      "title": "The First Class Of Inhibitors For Yeats Domain As Potential Therapeutic Agents For Acute Leukemia",
+      "title_original": "The First Class Of Inhibitors For Yeats Domain As Potential Therapeutic Agents For Acute Leukemia",
+      "translated": false
+    },
+    {
+      "id": "www.tto.hku.hk",
+      "url": "https://www.tto.hku.hk/technology/page4",
+      "title": "Skip to main content",
+      "title_original": "Skip to main content",
+      "translated": false
+    },
+    {
+      "id": "novel-analogues-of-teixobactin-and-the-synthetic-method",
+      "url": "https://www.tto.hku.hk/technology/novel-analogues-of-teixobactin-and-the-synthetic-method",
+      "title": "Novel Analogues Of Teixobactin And The Synthetic Method",
+      "title_original": "Novel Analogues Of Teixobactin And The Synthetic Method",
+      "translated": false
+    },
+    {
+      "id": "opticlear-a-novel-tissue-clearing-agent-for-the-next-generation-histology",
+      "url": "https://www.tto.hku.hk/technology/opticlear-a-novel-tissue-clearing-agent-for-the-next-generation-histology",
+      "title": "Opticlear A Novel Tissue Clearing Agent For The Next Generation Histology",
+      "title_original": "Opticlear A Novel Tissue Clearing Agent For The Next Generation Histology",
+      "translated": false
+    },
+    {
+      "id": "a-new-class-of-metallo-v-lactamases-inhibitors-against-antibacterial-resistance",
+      "url": "https://www.tto.hku.hk/technology/a-new-class-of-metallo-v-lactamases-inhibitors-against-antibacterial-resistance",
+      "title": "A New Class Of Metallo V Lactamases Inhibitors Against Antibacterial Resistance",
+      "title_original": "A New Class Of Metallo V Lactamases Inhibitors Against Antibacterial Resistance",
+      "translated": false
+    },
+    {
+      "id": "palladium-ii-complexes-in-anti-cancer",
+      "url": "https://www.tto.hku.hk/technology/palladium-ii-complexes-in-anti-cancer",
+      "title": "Palladium Ii Complexes In Anti Cancer",
+      "title_original": "Palladium Ii Complexes In Anti Cancer",
+      "translated": false
+    },
+    {
+      "id": "platinum-complexes-for-anti-cancer-treatment",
+      "url": "https://www.tto.hku.hk/technology/platinum-complexes-for-anti-cancer-treatment",
+      "title": "Platinum Complexes For Anti Cancer Treatment",
+      "title_original": "Platinum Complexes For Anti Cancer Treatment",
+      "translated": false
+    },
+    {
+      "id": "immuno-oncolytic-modified-vaccinia-tian-tan-virus-and-methods-of-treating-cancer",
+      "url": "https://www.tto.hku.hk/technology/immuno-oncolytic-modified-vaccinia-tian-tan-virus-and-methods-of-treating-cancer",
+      "title": "Immuno Oncolytic Modified Vaccinia Tian Tan Virus And Methods Of Treating Cancer",
+      "title_original": "Immuno Oncolytic Modified Vaccinia Tian Tan Virus And Methods Of Treating Cancer",
+      "translated": false
+    },
+    {
+      "id": "neutrophil-elastase-ne-and-proteinase-3-pr3-as-diagnostic-biomarkers-for-autoimmune-diabetes",
+      "url": "https://www.tto.hku.hk/technology/neutrophil-elastase-ne-and-proteinase-3-pr3-as-diagnostic-biomarkers-for-autoimmune-diabetes",
+      "title": "Neutrophil Elastase Ne And Proteinase 3 Pr3 As Diagnostic Biomarkers For Autoimmune Diabetes",
+      "title_original": "Neutrophil Elastase Ne And Proteinase 3 Pr3 As Diagnostic Biomarkers For Autoimmune Diabetes",
+      "translated": false
+    },
+    {
+      "id": "novel-anti-aging-agents-as-sirt1-activators",
+      "url": "https://www.tto.hku.hk/technology/novel-anti-aging-agents-as-sirt1-activators",
+      "title": "Novel Anti Aging Agents As Sirt1 Activators",
+      "title_original": "Novel Anti Aging Agents As Sirt1 Activators",
+      "translated": false
+    },
+    {
+      "id": "www.tto.hku.hk",
+      "url": "https://www.tto.hku.hk/technology/page5",
+      "title": "Skip to main content",
+      "title_original": "Skip to main content",
+      "translated": false
+    },
+    {
+      "id": "effective-mrna-pulmonary-delivery-by-dry-powder-formulation",
+      "url": "https://www.tto.hku.hk/technology/effective-mrna-pulmonary-delivery-by-dry-powder-formulation",
+      "title": "Effective Mrna Pulmonary Delivery By Dry Powder Formulation",
+      "title_original": "Effective Mrna Pulmonary Delivery By Dry Powder Formulation",
+      "translated": false
+    },
+    {
+      "id": "broadly-neutralizing-antibodies-and-robust-cellular-immunity-elicited-by-dna-motif",
+      "url": "https://www.tto.hku.hk/technology/broadly-neutralizing-antibodies-and-robust-cellular-immunity-elicited-by-dna-motif",
+      "title": "Broadly Neutralizing Antibodies And Robust Cellular Immunity Elicited By Dna Motif",
+      "title_original": "Broadly Neutralizing Antibodies And Robust Cellular Immunity Elicited By Dna Motif",
+      "translated": false
+    },
+    {
+      "id": "a-novel-highly-sensitive-and-specific-diagnostic-assay-for-covid-19",
+      "url": "https://www.tto.hku.hk/technology/a-novel-highly-sensitive-and-specific-diagnostic-assay-for-covid-19",
+      "title": "A Novel Highly Sensitive And Specific Diagnostic Assay For Covid 19",
+      "title_original": "A Novel Highly Sensitive And Specific Diagnostic Assay For Covid 19",
+      "translated": false
+    },
+    {
+      "id": "proteins-for-serological-test-of-covid-19",
+      "url": "https://www.tto.hku.hk/technology/proteins-for-serological-test-of-covid-19",
+      "title": "Proteins For Serological Test Of Covid 19",
+      "title_original": "Proteins For Serological Test Of Covid 19",
+      "translated": false
+    },
+    {
+      "id": "anti-dkk1-monoclonal-antibody-for-liver-cancer-treatment",
+      "url": "https://www.tto.hku.hk/technology/anti-dkk1-monoclonal-antibody-for-liver-cancer-treatment",
+      "title": "Anti Dkk1 Monoclonal Antibody For Liver Cancer Treatment",
+      "title_original": "Anti Dkk1 Monoclonal Antibody For Liver Cancer Treatment",
+      "translated": false
+    },
+    {
+      "id": "small-molecules-to-treat-skeletal-disorders-caused-by-integrated-stress-response",
+      "url": "https://www.tto.hku.hk/technology/small-molecules-to-treat-skeletal-disorders-caused-by-integrated-stress-response",
+      "title": "Small Molecules To Treat Skeletal Disorders Caused By Integrated Stress Response",
+      "title_original": "Small Molecules To Treat Skeletal Disorders Caused By Integrated Stress Response",
+      "translated": false
+    },
+    {
+      "id": "combination-use-of-cd47-antibodies-inhibitors-with-sorafenib-for-liver-cancer-treatment",
+      "url": "https://www.tto.hku.hk/technology/combination-use-of-cd47-antibodies-inhibitors-with-sorafenib-for-liver-cancer-treatment",
+      "title": "Combination Use Of Cd47 Antibodies Inhibitors With Sorafenib For Liver Cancer Treatment",
+      "title_original": "Combination Use Of Cd47 Antibodies Inhibitors With Sorafenib For Liver Cancer Treatment",
+      "translated": false
+    },
+    {
+      "id": "a-live-attenuated-influenza-virus-vaccine-offering-universal-protection",
+      "url": "https://www.tto.hku.hk/technology/a-live-attenuated-influenza-virus-vaccine-offering-universal-protection",
+      "title": "A Live Attenuated Influenza Virus Vaccine Offering Universal Protection",
+      "title_original": "A Live Attenuated Influenza Virus Vaccine Offering Universal Protection",
+      "translated": false
+    },
+    {
+      "id": "www.tto.hku.hk",
+      "url": "https://www.tto.hku.hk/technology/page14",
+      "title": "Skip to main content",
+      "title_original": "Skip to main content",
+      "translated": false
+    },
+    {
+      "id": "daidzein-and-other-analogs-as-agents-for-purging-hiv-reservoir",
+      "url": "https://www.tto.hku.hk/technology/daidzein-and-other-analogs-as-agents-for-purging-hiv-reservoir",
+      "title": "Daidzein And Other Analogs As Agents For Purging Hiv Reservoir",
+      "title_original": "Daidzein And Other Analogs As Agents For Purging Hiv Reservoir",
+      "translated": false
+    },
+    {
+      "id": "materials-and-methods-for-filling-biological-cavities-and-preventing-leakage-of-injected-therapeutic-agents",
+      "url": "https://www.tto.hku.hk/technology/materials-and-methods-for-filling-biological-cavities-and-preventing-leakage-of-injected-therapeutic-agents",
+      "title": "Materials And Methods For Filling Biological Cavities And Preventing Leakage Of Injected Therapeutic Agents",
+      "title_original": "Materials And Methods For Filling Biological Cavities And Preventing Leakage Of Injected Therapeutic Agents",
+      "translated": false
+    },
+    {
+      "id": "aptamers-for-the-treatment-of-osteoporosis",
+      "url": "https://www.tto.hku.hk/technology/aptamers-for-the-treatment-of-osteoporosis",
+      "title": "Aptamers For The Treatment Of Osteoporosis",
+      "title_original": "Aptamers For The Treatment Of Osteoporosis",
+      "translated": false
+    },
+    {
+      "id": "anti-her2-and-anti-igf-ir-bi-specific-antibodies-for-ovarian-cancers",
+      "url": "https://www.tto.hku.hk/technology/anti-her2-and-anti-igf-ir-bi-specific-antibodies-for-ovarian-cancers",
+      "title": "Anti Her2 And Anti Igf Ir Bi Specific Antibodies For Ovarian Cancers",
+      "title_original": "Anti Her2 And Anti Igf Ir Bi Specific Antibodies For Ovarian Cancers",
+      "translated": false
+    }
+  ]
+}

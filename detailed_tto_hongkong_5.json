@@ -1,0 +1,275 @@
+{
+  "scraped_date": "2025-11-16T01:14:50.116122",
+  "total_count": 5,
+  "traditional_count": 0,
+  "search_model_count": 5,
+  "total_cost": 0.15,
+  "model": "gpt-4o-search-preview",
+  "ips": [
+    {
+      "_id": {
+        "$oid": "technologies-and-products"
+      },
+      "source_id": "unknown",
+      "url": "https://www.tto.hku.hk/technologies-and-products",
+      "details": {
+        "title": null,
+        "post_date": null,
+        "summary": null,
+        "abstract": null,
+        "benefit": null,
+        "market_application": null,
+        "technology_description": null,
+        "publications": {
+          "text": null,
+          "urls": []
+        },
+        "image_urls": [],
+        "licensing_contacts": [
+          {
+            "name": "Technology Transfer Office (HKU)",
+            "phone": "(852) 3917 3111",
+            "email": "info@tto.hku.hk"
+          }
+        ],
+        "researchers": [],
+        "organizations": [
+          {
+            "name": "The University of Hong Kong",
+            "logo_url": null
+          }
+        ],
+        "companies_interested": [],
+        "additional_data": {},
+        "extracted_urls": [
+          "https://www.tto.hku.hk/technologies-and-products",
+          "https://www.tto.hku.hk/contact-us"
+        ]
+      },
+      "timestamp": "2025-11-16T01:14:16.449041",
+      "model": "gpt-4o-search-preview",
+      "scraping_method": "search_model",
+      "completeness_score": 0.25,
+      "web_citations": [
+        "https://www.tto.hku.hk/technologies-and-products",
+        "https://www.tto.hku.hk/contact-us"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "rsv-vaccine"
+      },
+      "source_id": "unknown",
+      "url": "https://www.tto.hku.hk/technology/rsv-vaccine",
+      "details": {
+        "title": "A Novel Nasal Spray RSV Vaccine",
+        "post_date": null,
+        "summary": "The University of Hong Kong has developed an intranasal vaccine for Respiratory Syncytial Virus (RSV) aimed at providing comprehensive protection against RSV infections in both the upper and lower respiratory tracts. This vaccine is designed to be easy to administer without injections and has the potential to prevent viral transmission.",
+        "abstract": "The novel nasal spray RSV vaccine is built on a proven vaccine platform, inducing strong neutralizing antibodies. It offers protection in both the upper and lower respiratory tracts and is easy to administer without the need for injections. The vaccine has the potential to prevent viral transmission and is currently in the animal testing phase.",
+        "benefit": "Key benefits include ease of administration without injections, induction of strong neutralizing antibodies, protection in both upper and lower respiratory tracts, and potential to prevent viral transmission.",
+        "market_application": "The vaccine targets infants, young children, and older adults who are vulnerable to severe RSV infections, addressing a significant unmet need in pediatric and adult populations.",
+        "technology_description": "This intranasal RSV vaccine is developed on a safe and effective vaccine platform, designed to induce robust immune responses and provide comprehensive protection against RSV infections.",
+        "publications": {
+          "text": "Related publications include studies on RSV vaccines and their impact on reducing the burden of RSV in infants and older adults.",
+          "urls": [
+            "https://hub.hku.hk/handle/10722/364138",
+            "https://hub.hku.hk/handle/10722/362628"
+          ]
+        },
+        "image_urls": [
+          "https://www.tto.hku.hk/technology/rsv-vaccine/image1.jpg",
+          "https://www.tto.hku.hk/technology/rsv-vaccine/image2.jpg",
+          "https://www.tto.hku.hk/technology/rsv-vaccine/image3.jpg"
+        ],
+        "licensing_contacts": [
+          {
+            "name": "HKU Technology Transfer Office",
+            "phone": "+852 2299 0111",
+            "email": "info@tto.hku.hk"
+          }
+        ],
+        "researchers": [
+          "Dr. Zhiwei Chen"
+        ],
+        "organizations": [
+          {
+            "name": "The University of Hong Kong",
+            "logo_url": "https://www.hku.hk/logo.png"
+          }
+        ],
+        "companies_interested": [],
+        "additional_data": {},
+        "extracted_urls": [
+          "https://www.tto.hku.hk/technology/rsv-vaccine",
+          "https://hub.hku.hk/handle/10722/364138",
+          "https://hub.hku.hk/handle/10722/362628"
+        ]
+      },
+      "timestamp": "2025-11-16T01:14:24.832550",
+      "model": "gpt-4o-search-preview",
+      "scraping_method": "search_model",
+      "completeness_score": 1.0,
+      "web_citations": [
+        "https://www.tto.hku.hk/technology/rsv-vaccine",
+        "https://hub.hku.hk/handle/10722/364138",
+        "https://hub.hku.hk/handle/10722/362628"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "in-vitro-generation-of-an-osteochondral-interface"
+      },
+      "source_id": "unknown",
+      "url": "https://www.tto.hku.hk/technology/in-vitro-generation-of-an-osteochondral-interface",
+      "details": {
+        "title": "In Vitro Generation of an Osteochondral Interface",
+        "post_date": null,
+        "summary": "This technology presents a novel method for constructing a stem cell-derived osteochondral interface in vitro, closely resembling physiological conditions. It involves a 3D configuration through multi-layered co-cultures under optimal culture conditions.",
+        "abstract": "The bone-and-cartilage interface is present in many complex tissues, including articular cartilage, growth plate, and intervertebral disc. Prior to this invention, attempts to fabricate this interface had not been reported. This method constructs a stem cell-derived osteochondral interface in vitro, featuring hypertrophic chondrocytes, calcium phosphate deposits, collagen types II and X, and glycosaminoglycans (GAGs).",
+        "benefit": "This technology offers a new approach to tissue engineering and cell-based therapy by replicating the osteochondral interface in vitro, potentially enhancing tissue repair strategies.",
+        "market_application": "Potential applications include tissue engineering and cell-based therapies aimed at repairing complex tissues involving the bone-and-cartilage interface.",
+        "technology_description": "The method utilizes a 3D configuration via multi-layered co-cultures with optimal culture conditions to construct a stem cell-derived osteochondral interface in vitro. The resulting construct presents hypertrophic chondrocytes, calcium phosphate deposits, collagen types II and X, and GAGs, closely resembling physiological conditions.",
+        "publications": {
+          "text": "A PCT application has been filed for this technology.",
+          "urls": []
+        },
+        "image_urls": [],
+        "licensing_contacts": [
+          {
+            "name": "HKU Technology Transfer Office",
+            "phone": "(852) 3917 3111",
+            "email": "info@tto.hku.hk"
+          }
+        ],
+        "researchers": [],
+        "organizations": [
+          {
+            "name": "The University of Hong Kong",
+            "logo_url": null
+          }
+        ],
+        "companies_interested": [],
+        "additional_data": {},
+        "extracted_urls": [
+          "https://www.tto.hku.hk/technology/in-vitro-generation-of-an-osteochondral-interface",
+          "https://tto.hku.hk/sc/contact-us"
+        ]
+      },
+      "timestamp": "2025-11-16T01:14:33.244181",
+      "model": "gpt-4o-search-preview",
+      "scraping_method": "search_model",
+      "completeness_score": 0.75,
+      "web_citations": [
+        "https://www.tto.hku.hk/technology/in-vitro-generation-of-an-osteochondral-interface",
+        "https://tto.hku.hk/sc/contact-us"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "msc-microspheres-for-regenerative-medicine"
+      },
+      "source_id": "unknown",
+      "url": "https://www.tto.hku.hk/technology/msc-microspheres-for-regenerative-medicine",
+      "details": {
+        "title": "MSC Microspheres for Regenerative Medicine",
+        "post_date": null,
+        "summary": "This technology involves the development of self-assembled collagen-MSC microspheres designed to enhance stem cell-based therapies in regenerative medicine by providing a controlled and protective environment for mesenchymal stem cells (MSCs).",
+        "abstract": "The technology presents self-assembled collagen-MSC microspheres with controlled sizes ranging from 150-300µm in diameter. These microspheres encapsulate MSCs within a dense meshwork of collagen fibrils, creating a physiologically relevant environment that protects the cells and allows for the control of MSC numbers for various applications. This approach addresses the lack of effective delivery devices in stem cell-based therapies, aiming to improve functional outcomes in regenerative medicine.",
+        "benefit": "The key advantages include the ability to control the size and MSC number within the microspheres, providing a protective and supportive environment for the cells, which can lead to improved efficacy in stem cell-based therapies.",
+        "market_application": "Potential applications include various cell-based therapies in regenerative medicine and tissue engineering, where controlled delivery and protection of MSCs are crucial for therapeutic success.",
+        "technology_description": "The technology utilizes self-assembly techniques to create collagen-MSC microspheres with precise size control. The encapsulated MSCs are surrounded by a dense collagen fibril network, offering protection and a conducive environment for cell viability and function. This design allows for customization of MSC numbers within the microspheres to suit different therapeutic needs.",
+        "publications": {
+          "text": "The technology is associated with a PCT application published on June 26, 2008.",
+          "urls": []
+        },
+        "image_urls": [],
+        "licensing_contacts": [
+          {
+            "name": null,
+            "phone": null,
+            "email": null
+          }
+        ],
+        "researchers": [],
+        "organizations": [
+          {
+            "name": "The University of Hong Kong",
+            "logo_url": null
+          }
+        ],
+        "companies_interested": [],
+        "additional_data": {},
+        "extracted_urls": [
+          "https://www.tto.hku.hk/technology/msc-microspheres-for-regenerative-medicine"
+        ]
+      },
+      "timestamp": "2025-11-16T01:14:41.141748",
+      "model": "gpt-4o-search-preview",
+      "scraping_method": "search_model",
+      "completeness_score": 0.75,
+      "web_citations": [
+        "https://www.tto.hku.hk/technology/msc-microspheres-for-regenerative-medicine"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "synthetic-bacteria-vaccine-against-antibiotics-resistant-bacteria"
+      },
+      "source_id": "unknown",
+      "url": "https://www.tto.hku.hk/technology/synthetic-bacteria-vaccine-against-antibiotics-resistant-bacteria",
+      "details": {
+        "title": "Synthetic Bacteria Vaccine Against Antibiotics Resistant Bacteria",
+        "post_date": null,
+        "summary": "A novel vaccine targeting antibiotic-resistant bacteria by conjugating pseudaminic acid from pathogens to a carrier protein, forming an anti-bacterial conjugate vaccine.",
+        "abstract": "The technology involves conjugating pseudaminic acid, present in certain pathogens, to the carrier protein CRM197 to create an anti-bacterial conjugate vaccine. This approach aims to provide effective protection against infections caused by antibiotic-resistant bacteria such as Acinetobacter baumannii, Pseudomonas aeruginosa, and Campylobacter jejuni.",
+        "benefit": "Promising protection efficacy and cost-effectiveness.",
+        "market_application": "Vaccines targeting Pse-carrying bacteria, including Acinetobacter baumannii, Pseudomonas aeruginosa, and Campylobacter jejuni.",
+        "technology_description": "The vaccine is developed by conjugating pseudaminic acid from pathogens to the carrier protein CRM197, forming an anti-bacterial conjugate vaccine designed to combat antibiotic-resistant bacteria.",
+        "publications": {
+          "text": "Related research includes a project titled 'Development of Bacterial Pseudaminic Acid-based Vaccine to Combat Infections caused by Multidrug Resistant Bacteria' led by Professor Xuechen Li and Dr. Sheng Chen.",
+          "urls": [
+            "https://repository.hku.hk/cris/project/hkugrant749155865"
+          ]
+        },
+        "image_urls": [],
+        "licensing_contacts": [
+          {
+            "name": null,
+            "phone": null,
+            "email": null
+          }
+        ],
+        "researchers": [
+          "Professor Xuechen Li",
+          "Dr. Sheng Chen"
+        ],
+        "organizations": [
+          {
+            "name": "The University of Hong Kong",
+            "logo_url": null
+          },
+          {
+            "name": "City University of Hong Kong",
+            "logo_url": null
+          }
+        ],
+        "companies_interested": [],
+        "additional_data": {},
+        "extracted_urls": [
+          "https://www.versitech.hku.hk/technology/synthetic-bacteria-vaccine-against-antibiotics-resistant-bacteria",
+          "https://repository.hku.hk/cris/project/hkugrant749155865",
+          "https://www.scifac.hku.hk/news/new-opportunity-for-treating-resistant-a-baumannii-infection"
+        ]
+      },
+      "timestamp": "2025-11-16T01:14:49.614527",
+      "model": "gpt-4o-search-preview",
+      "scraping_method": "search_model",
+      "completeness_score": 1.0,
+      "web_citations": [
+        "https://www.versitech.hku.hk/technology/synthetic-bacteria-vaccine-against-antibiotics-resistant-bacteria",
+        "https://repository.hku.hk/cris/project/hkugrant749155865",
+        "https://www.scifac.hku.hk/news/new-opportunity-for-treating-resistant-a-baumannii-infection"
+      ]
+    }
+  ]
+}

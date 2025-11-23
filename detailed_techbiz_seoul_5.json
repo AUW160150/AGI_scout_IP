@@ -1,0 +1,230 @@
+{
+  "scraped_date": "2025-11-16T01:46:08.430254",
+  "total_count": 5,
+  "traditional_count": 0,
+  "search_model_count": 5,
+  "total_cost": 0.15,
+  "model": "gpt-4o-search-preview",
+  "ips": [
+    {
+      "_id": {
+        "$oid": "navi.php?boardid=sunavi&mode=view&idx=85101&sk=&sw=&offset=0&scate="
+      },
+      "source_id": "unknown",
+      "url": "http://techbiz.snu.ac.kr/tech/navi.php?boardid=sunavi&mode=view&idx=85101&sk=&sw=&offset=0&scate=",
+      "details": {
+        "title": null,
+        "post_date": null,
+        "summary": null,
+        "abstract": null,
+        "benefit": null,
+        "market_application": null,
+        "technology_description": null,
+        "publications": {
+          "text": null,
+          "urls": []
+        },
+        "image_urls": [],
+        "licensing_contacts": [
+          {
+            "name": null,
+            "phone": null,
+            "email": null
+          }
+        ],
+        "researchers": [],
+        "organizations": [
+          {
+            "name": "Seoul National University",
+            "logo_url": null
+          }
+        ],
+        "companies_interested": [],
+        "additional_data": {},
+        "extracted_urls": []
+      },
+      "timestamp": "2025-11-16T01:45:43.115093",
+      "model": "gpt-4o-search-preview",
+      "scraping_method": "search_model",
+      "completeness_score": 0.25,
+      "web_citations": []
+    },
+    {
+      "_id": {
+        "$oid": "navi.php?boardid=sunavi&mode=view&idx=85096&sk=&sw=&offset=0&scate="
+      },
+      "source_id": "unknown",
+      "url": "http://techbiz.snu.ac.kr/tech/navi.php?boardid=sunavi&mode=view&idx=85096&sk=&sw=&offset=0&scate=",
+      "details": {
+        "title": null,
+        "post_date": null,
+        "summary": null,
+        "abstract": null,
+        "benefit": null,
+        "market_application": null,
+        "technology_description": null,
+        "publications": {
+          "text": null,
+          "urls": []
+        },
+        "image_urls": [],
+        "licensing_contacts": [
+          {
+            "name": null,
+            "phone": null,
+            "email": null
+          }
+        ],
+        "researchers": [],
+        "organizations": [
+          {
+            "name": "Seoul National University",
+            "logo_url": null
+          }
+        ],
+        "companies_interested": [],
+        "additional_data": {},
+        "extracted_urls": []
+      },
+      "timestamp": "2025-11-16T01:45:49.221437",
+      "model": "gpt-4o-search-preview",
+      "scraping_method": "search_model",
+      "completeness_score": 0.25,
+      "web_citations": []
+    },
+    {
+      "_id": {
+        "$oid": "navi.php?boardid=sunavi&mode=view&idx=85095&sk=&sw=&offset=0&scate="
+      },
+      "source_id": "unknown",
+      "url": "http://techbiz.snu.ac.kr/tech/navi.php?boardid=sunavi&mode=view&idx=85095&sk=&sw=&offset=0&scate=",
+      "details": {
+        "title": null,
+        "post_date": null,
+        "summary": null,
+        "abstract": null,
+        "benefit": null,
+        "market_application": null,
+        "technology_description": null,
+        "publications": {
+          "text": null,
+          "urls": []
+        },
+        "image_urls": [],
+        "licensing_contacts": [
+          {
+            "name": null,
+            "phone": null,
+            "email": null
+          }
+        ],
+        "researchers": [],
+        "organizations": [
+          {
+            "name": "Seoul National University",
+            "logo_url": null
+          }
+        ],
+        "companies_interested": [],
+        "additional_data": {},
+        "extracted_urls": []
+      },
+      "timestamp": "2025-11-16T01:45:55.175413",
+      "model": "gpt-4o-search-preview",
+      "scraping_method": "search_model",
+      "completeness_score": 0.25,
+      "web_citations": []
+    },
+    {
+      "_id": {
+        "$oid": "navi.php?boardid=sunavi&mode=view&idx=85094&sk=&sw=&offset=0&scate="
+      },
+      "source_id": "unknown",
+      "url": "http://techbiz.snu.ac.kr/tech/navi.php?boardid=sunavi&mode=view&idx=85094&sk=&sw=&offset=0&scate=",
+      "details": {
+        "title": null,
+        "post_date": null,
+        "summary": null,
+        "abstract": null,
+        "benefit": null,
+        "market_application": null,
+        "technology_description": null,
+        "publications": {
+          "text": null,
+          "urls": []
+        },
+        "image_urls": [],
+        "licensing_contacts": [
+          {
+            "name": "Kim Ki-joong",
+            "phone": "031-787-8877",
+            "email": "02062@snubh.org"
+          },
+          {
+            "name": "Joo Hyejin",
+            "phone": "031-787-8865",
+            "email": "hjjoo@snubh.org"
+          },
+          {
+            "name": "Ahn Hyunji",
+            "phone": "031-787-8876",
+            "email": "90454@snubh.org"
+          }
+        ],
+        "researchers": [],
+        "organizations": [
+          {
+            "name": "Seoul National University Bundang Hospital",
+            "logo_url": null
+          }
+        ],
+        "companies_interested": [],
+        "additional_data": {},
+        "extracted_urls": [
+          "http://techbiz.snu.ac.kr/tech/navi.php?boardid=sunavi&mode=view&idx=85094&sk=&sw=&offset=0&scate=",
+          "https://bri.snubh.org/eng_techBizCenter/conts/101002000000000.do"
+        ]
+      },
+      "timestamp": "2025-11-16T01:46:02.496251",
+      "model": "gpt-4o-search-preview",
+      "scraping_method": "search_model",
+      "completeness_score": 0.25,
+      "web_citations": [
+        "http://techbiz.snu.ac.kr/tech/navi.php?boardid=sunavi&mode=view&idx=85094&sk=&sw=&offset=0&scate=",
+        "https://bri.snubh.org/eng_techBizCenter/conts/101002000000000.do"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "navi.php?boardid=sunavi&mode=view&idx=85091&sk=&sw=&offset=10&scate="
+      },
+      "source_id": "unknown",
+      "url": "http://techbiz.snu.ac.kr/tech/navi.php?boardid=sunavi&mode=view&idx=85091&sk=&sw=&offset=10&scate=",
+      "details": {
+        "title": null,
+        "post_date": null,
+        "summary": null,
+        "abstract": null,
+        "benefit": null,
+        "market_application": null,
+        "technology_description": null,
+        "publications": {
+          "text": null,
+          "urls": []
+        },
+        "image_urls": [],
+        "licensing_contacts": [],
+        "researchers": [],
+        "organizations": [],
+        "companies_interested": [],
+        "additional_data": {},
+        "extracted_urls": []
+      },
+      "timestamp": "2025-11-16T01:46:07.927793",
+      "model": "gpt-4o-search-preview",
+      "scraping_method": "search_model",
+      "completeness_score": 0.0,
+      "web_citations": []
+    }
+  ]
+}
