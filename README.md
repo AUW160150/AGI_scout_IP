@@ -84,7 +84,7 @@ VCs and pharma companies waste **20+ hours/week** manually searching university 
 - **REST API**: Full programmatic access
 
 ### 🏗️ Production-Ready
-- Sentry monitoring
+- Sentry and/or Galileo monitoring
 - API authentication & rate limiting
 - Cost tracking & budgets
 - Comprehensive logging
@@ -133,7 +133,7 @@ VCs and pharma companies waste **20+ hours/week** manually searching university 
 - Python 3.10+
 - API Keys:
   - **Required**: OpenAI
-  - **Optional**: Telnyx, AGI, Sentry
+  - **Optional**: Telnyx, AGI, Sentry or Galileo
 
 ### Installation
 
@@ -162,6 +162,7 @@ AGI_API_KEY=your-agi-key
 TELNYX_API_KEY=KEY...
 TELNYX_PHONE_NUMBER=+1...
 SENTRY_DSN=https://...
+Galileo_API_KEY = 
 ```
 
 ### Run Discovery Pipeline
