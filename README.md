@@ -10,7 +10,7 @@
 [![Built with OpenAI](https://img.shields.io/badge/Built%20with-OpenAI-412991.svg)](https://openai.com/)
 [![Telnyx Voice](https://img.shields.io/badge/Voice-Telnyx-00C48C.svg)](https://telnyx.com/)
 [![Lovable](https://img.shields.io/badge/Frontend-Lovable-FF6B6B.svg)](https://lovable.dev/)
-[![Monitored by Sentry or Galileo.ai](https://img.shields.io/badge/Monitored%20by-Sentry-362D59.svg)](https://sentry.io/)
+[![Monitored by Sentry/Galileo.ai](https://img.shields.io/badge/Monitored%20by-Sentry-362D59.svg)](https://sentry.io/)
 
 **[Live Demo](https://youtu.be/s3RYaocgjb8) • [Documentation](#-quick-start) • [Architecture](#-architecture)**
 
