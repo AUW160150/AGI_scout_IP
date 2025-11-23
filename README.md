@@ -1,5 +1,4 @@
 🧬 BioIP Discovery Agent
-<div align="center">
 Production-Ready Vertical Agent for Life Sciences IP Discovery
            
 🎯 Overview
