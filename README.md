@@ -12,7 +12,7 @@
 [![Lovable](https://img.shields.io/badge/Frontend-Lovable-FF6B6B.svg)](https://lovable.dev/)
 [![Monitored by Sentry](https://img.shields.io/badge/Monitored%20by-Sentry-362D59.svg)](https://sentry.io/)
 
-**[Live Demo](https://ip-discover.lovable.app/) • [Documentation](#-quick-start) • [Architecture](#-architecture)**
+**[Live Demo](https://youtu.be/s3RYaocgjb8) • [Documentation](#-quick-start) • [Architecture](#-architecture)**
 
 *Built for AGI Hackathon - Vertical Agent Track*
 
