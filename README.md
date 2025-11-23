@@ -1,3 +1,7 @@
+🧬 BioIP Discovery Agent
+<div align="center">
+Production-Ready Vertical Agent for Life Sciences IP Discovery
+           
 🎯 Overview
 BioIP Discovery Agent is an AGI-powered vertical agent that automates the discovery, classification, and analysis of Life Sciences and Medical Device intellectual property from university technology transfer offices.
 The Problem
